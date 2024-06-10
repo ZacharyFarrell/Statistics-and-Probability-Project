@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+const generations = {};
 const data = [];
 
 async function checkIfLegendary(pokemon) {
@@ -117,8 +118,9 @@ async function addPokemonData(chain) {
   const speed = json.stats.find((x) => x.stat.name === 'speed').base_stat;
   const isLegendary = await checkIfLegendary(pokemon);
   const evolvesInto = chain.evolves_to.map((x) => x.species.name) || [];
+  const generation = generations[pokemon];
 
-  data.push({ id, pokemon, type1, type2, total, hp, attack, defense, specialAttack, specialDefense, speed, isLegendary, evolvesInto });
+  data.push({ id, pokemon, type1, type2, total, hp, attack, defense, specialAttack, specialDefense, speed, isLegendary, generation, evolvesInto });
 
   if (id % 10 === 0) console.log(`${data.length}th pokemon added`);
   if (chain.evolves_to.length === 0) return;
@@ -128,7 +130,7 @@ async function addPokemonData(chain) {
   }
 }
 let err = 0;
-async function getPokemonEvos(count) {
+async function getPokemonEvos(count = 1) {
   const res = await fetch(`https://pokeapi.co/api/v2/evolution-chain/${count}`);
   let json;
   try {
@@ -144,8 +146,23 @@ async function getPokemonEvos(count) {
   await getPokemonEvos(++count);
 }
 
+async function getGenerationData(gen = 1) {
+  const res = await fetch(`https://pokeapi.co/api/v2/generation/${gen}`);
+  let json;
+  try {
+    json = await res.json();
+  } catch {
+    return;
+  }
+  for (const pokemon of json.pokemon_species) {
+    generations[pokemon.name] = gen;
+  }
+  return await getGenerationData(++gen);
+}
+
 async function main() {
-  await getPokemonEvos(1);
+  await getGenerationData();
+  await getPokemonEvos();
   console.log('All Done!');
   fs.writeFileSync('./pokemon.json', JSON.stringify(data, null, 2));
 }

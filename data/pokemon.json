@@ -12,6 +12,7 @@
     "specialDefense": 65,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "ivysaur"
     ]
@@ -29,6 +30,7 @@
     "specialDefense": 80,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "venusaur"
     ]
@@ -46,6 +48,7 @@
     "specialDefense": 100,
     "speed": 80,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -61,6 +64,7 @@
     "specialDefense": 50,
     "speed": 65,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "charmeleon"
     ]
@@ -78,6 +82,7 @@
     "specialDefense": 65,
     "speed": 80,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "charizard"
     ]
@@ -95,6 +100,7 @@
     "specialDefense": 85,
     "speed": 100,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -110,6 +116,7 @@
     "specialDefense": 64,
     "speed": 43,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "wartortle"
     ]
@@ -127,6 +134,7 @@
     "specialDefense": 80,
     "speed": 58,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "blastoise"
     ]
@@ -144,6 +152,7 @@
     "specialDefense": 105,
     "speed": 78,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -159,6 +168,7 @@
     "specialDefense": 20,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "metapod"
     ]
@@ -176,6 +186,7 @@
     "specialDefense": 25,
     "speed": 30,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "butterfree"
     ]
@@ -193,6 +204,7 @@
     "specialDefense": 80,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -208,6 +220,7 @@
     "specialDefense": 20,
     "speed": 50,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "kakuna"
     ]
@@ -225,6 +238,7 @@
     "specialDefense": 25,
     "speed": 35,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "beedrill"
     ]
@@ -242,6 +256,7 @@
     "specialDefense": 80,
     "speed": 75,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -257,6 +272,7 @@
     "specialDefense": 35,
     "speed": 56,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "pidgeotto"
     ]
@@ -274,6 +290,7 @@
     "specialDefense": 50,
     "speed": 71,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "pidgeot"
     ]
@@ -291,6 +308,7 @@
     "specialDefense": 70,
     "speed": 101,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -306,6 +324,7 @@
     "specialDefense": 35,
     "speed": 72,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "raticate"
     ]
@@ -323,6 +342,7 @@
     "specialDefense": 70,
     "speed": 97,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -338,6 +358,7 @@
     "specialDefense": 31,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "fearow"
     ]
@@ -355,6 +376,7 @@
     "specialDefense": 61,
     "speed": 100,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -370,6 +392,7 @@
     "specialDefense": 54,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "arbok"
     ]
@@ -387,6 +410,7 @@
     "specialDefense": 79,
     "speed": 80,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -402,6 +426,7 @@
     "specialDefense": 35,
     "speed": 60,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "pikachu"
     ]
@@ -419,6 +444,7 @@
     "specialDefense": 50,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "raichu"
     ]
@@ -436,6 +462,7 @@
     "specialDefense": 80,
     "speed": 110,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -451,6 +478,7 @@
     "specialDefense": 30,
     "speed": 40,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "sandslash"
     ]
@@ -468,6 +496,7 @@
     "specialDefense": 55,
     "speed": 65,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -483,6 +512,7 @@
     "specialDefense": 40,
     "speed": 41,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "nidorina"
     ]
@@ -500,6 +530,7 @@
     "specialDefense": 55,
     "speed": 56,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "nidoqueen"
     ]
@@ -517,6 +548,7 @@
     "specialDefense": 85,
     "speed": 76,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -532,6 +564,7 @@
     "specialDefense": 40,
     "speed": 50,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "nidorino"
     ]
@@ -549,6 +582,7 @@
     "specialDefense": 55,
     "speed": 65,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "nidoking"
     ]
@@ -566,6 +600,7 @@
     "specialDefense": 75,
     "speed": 85,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -581,6 +616,7 @@
     "specialDefense": 55,
     "speed": 15,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "clefairy"
     ]
@@ -598,6 +634,7 @@
     "specialDefense": 65,
     "speed": 35,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "clefable"
     ]
@@ -615,6 +652,7 @@
     "specialDefense": 90,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -630,6 +668,7 @@
     "specialDefense": 65,
     "speed": 65,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "ninetales"
     ]
@@ -647,6 +686,7 @@
     "specialDefense": 100,
     "speed": 100,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -662,6 +702,7 @@
     "specialDefense": 20,
     "speed": 15,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "jigglypuff"
     ]
@@ -679,6 +720,7 @@
     "specialDefense": 25,
     "speed": 20,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "wigglytuff"
     ]
@@ -696,6 +738,7 @@
     "specialDefense": 50,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -711,6 +754,7 @@
     "specialDefense": 40,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "golbat"
     ]
@@ -728,6 +772,7 @@
     "specialDefense": 75,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "crobat"
     ]
@@ -745,6 +790,7 @@
     "specialDefense": 80,
     "speed": 130,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -760,6 +806,7 @@
     "specialDefense": 65,
     "speed": 30,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "gloom"
     ]
@@ -777,6 +824,7 @@
     "specialDefense": 75,
     "speed": 40,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "vileplume",
       "bellossom"
@@ -795,6 +843,7 @@
     "specialDefense": 90,
     "speed": 50,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -810,6 +859,7 @@
     "specialDefense": 100,
     "speed": 50,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -825,6 +875,7 @@
     "specialDefense": 55,
     "speed": 25,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "parasect"
     ]
@@ -842,6 +893,7 @@
     "specialDefense": 80,
     "speed": 30,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -857,6 +909,7 @@
     "specialDefense": 55,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "venomoth"
     ]
@@ -874,6 +927,7 @@
     "specialDefense": 75,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -889,6 +943,7 @@
     "specialDefense": 45,
     "speed": 95,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "dugtrio"
     ]
@@ -906,6 +961,7 @@
     "specialDefense": 70,
     "speed": 120,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -921,6 +977,7 @@
     "specialDefense": 40,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "persian",
       "perrserker"
@@ -939,6 +996,7 @@
     "specialDefense": 65,
     "speed": 115,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -954,6 +1012,7 @@
     "specialDefense": 60,
     "speed": 50,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -969,6 +1028,7 @@
     "specialDefense": 50,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "golduck"
     ]
@@ -986,6 +1046,7 @@
     "specialDefense": 80,
     "speed": 85,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1001,6 +1062,7 @@
     "specialDefense": 45,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "primeape"
     ]
@@ -1018,6 +1080,7 @@
     "specialDefense": 70,
     "speed": 95,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "annihilape"
     ]
@@ -1035,6 +1098,7 @@
     "specialDefense": 90,
     "speed": 90,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -1050,6 +1114,7 @@
     "specialDefense": 50,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "arcanine"
     ]
@@ -1067,6 +1132,7 @@
     "specialDefense": 80,
     "speed": 95,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1082,6 +1148,7 @@
     "specialDefense": 40,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "poliwhirl"
     ]
@@ -1099,6 +1166,7 @@
     "specialDefense": 50,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "poliwrath",
       "politoed"
@@ -1117,6 +1185,7 @@
     "specialDefense": 90,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1132,6 +1201,7 @@
     "specialDefense": 100,
     "speed": 70,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -1147,6 +1217,7 @@
     "specialDefense": 55,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "kadabra"
     ]
@@ -1164,6 +1235,7 @@
     "specialDefense": 70,
     "speed": 105,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "alakazam"
     ]
@@ -1181,6 +1253,7 @@
     "specialDefense": 95,
     "speed": 120,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1196,6 +1269,7 @@
     "specialDefense": 35,
     "speed": 35,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "machoke"
     ]
@@ -1213,6 +1287,7 @@
     "specialDefense": 60,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "machamp"
     ]
@@ -1230,6 +1305,7 @@
     "specialDefense": 85,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1245,6 +1321,7 @@
     "specialDefense": 30,
     "speed": 40,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "weepinbell"
     ]
@@ -1262,6 +1339,7 @@
     "specialDefense": 45,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "victreebel"
     ]
@@ -1279,6 +1357,7 @@
     "specialDefense": 70,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1294,6 +1373,7 @@
     "specialDefense": 100,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "tentacruel"
     ]
@@ -1311,6 +1391,7 @@
     "specialDefense": 120,
     "speed": 100,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1326,6 +1407,7 @@
     "specialDefense": 30,
     "speed": 20,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "graveler"
     ]
@@ -1343,6 +1425,7 @@
     "specialDefense": 45,
     "speed": 35,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "golem"
     ]
@@ -1360,6 +1443,7 @@
     "specialDefense": 65,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1375,6 +1459,7 @@
     "specialDefense": 65,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "rapidash"
     ]
@@ -1392,6 +1477,7 @@
     "specialDefense": 80,
     "speed": 105,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1407,6 +1493,7 @@
     "specialDefense": 40,
     "speed": 15,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "slowbro",
       "slowking"
@@ -1425,6 +1512,7 @@
     "specialDefense": 80,
     "speed": 30,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1440,6 +1528,7 @@
     "specialDefense": 110,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -1455,6 +1544,7 @@
     "specialDefense": 55,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "magneton"
     ]
@@ -1472,6 +1562,7 @@
     "specialDefense": 70,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "magnezone"
     ]
@@ -1489,6 +1580,7 @@
     "specialDefense": 90,
     "speed": 60,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -1504,6 +1596,7 @@
     "specialDefense": 62,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "sirfetchd"
     ]
@@ -1521,6 +1614,7 @@
     "specialDefense": 82,
     "speed": 65,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -1536,6 +1630,7 @@
     "specialDefense": 35,
     "speed": 75,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "dodrio"
     ]
@@ -1553,6 +1648,7 @@
     "specialDefense": 60,
     "speed": 110,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1568,6 +1664,7 @@
     "specialDefense": 70,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "dewgong"
     ]
@@ -1585,6 +1682,7 @@
     "specialDefense": 95,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1600,6 +1698,7 @@
     "specialDefense": 50,
     "speed": 25,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "muk"
     ]
@@ -1617,6 +1716,7 @@
     "specialDefense": 100,
     "speed": 50,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1632,6 +1732,7 @@
     "specialDefense": 25,
     "speed": 40,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "cloyster"
     ]
@@ -1649,6 +1750,7 @@
     "specialDefense": 45,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1664,6 +1766,7 @@
     "specialDefense": 35,
     "speed": 80,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "haunter"
     ]
@@ -1681,6 +1784,7 @@
     "specialDefense": 55,
     "speed": 95,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "gengar"
     ]
@@ -1698,6 +1802,7 @@
     "specialDefense": 75,
     "speed": 110,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1713,6 +1818,7 @@
     "specialDefense": 45,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "steelix"
     ]
@@ -1730,6 +1836,7 @@
     "specialDefense": 65,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -1745,6 +1852,7 @@
     "specialDefense": 90,
     "speed": 42,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "hypno"
     ]
@@ -1762,6 +1870,7 @@
     "specialDefense": 115,
     "speed": 67,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1777,6 +1886,7 @@
     "specialDefense": 25,
     "speed": 50,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "kingler"
     ]
@@ -1794,6 +1904,7 @@
     "specialDefense": 50,
     "speed": 75,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1809,6 +1920,7 @@
     "specialDefense": 55,
     "speed": 100,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "electrode"
     ]
@@ -1826,6 +1938,7 @@
     "specialDefense": 80,
     "speed": 150,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1841,6 +1954,7 @@
     "specialDefense": 45,
     "speed": 40,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "exeggutor"
     ]
@@ -1858,6 +1972,7 @@
     "specialDefense": 75,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1873,6 +1988,7 @@
     "specialDefense": 50,
     "speed": 35,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "marowak"
     ]
@@ -1890,6 +2006,7 @@
     "specialDefense": 80,
     "speed": 45,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1905,6 +2022,7 @@
     "specialDefense": 35,
     "speed": 35,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "hitmonlee",
       "hitmonchan",
@@ -1924,6 +2042,7 @@
     "specialDefense": 110,
     "speed": 87,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1939,6 +2058,7 @@
     "specialDefense": 110,
     "speed": 76,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -1954,6 +2074,7 @@
     "specialDefense": 110,
     "speed": 70,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -1969,6 +2090,7 @@
     "specialDefense": 75,
     "speed": 30,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "lickilicky"
     ]
@@ -1986,6 +2108,7 @@
     "specialDefense": 95,
     "speed": 50,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2001,6 +2124,7 @@
     "specialDefense": 45,
     "speed": 35,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "weezing"
     ]
@@ -2018,6 +2142,7 @@
     "specialDefense": 70,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2033,6 +2158,7 @@
     "specialDefense": 30,
     "speed": 25,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "rhydon"
     ]
@@ -2050,6 +2176,7 @@
     "specialDefense": 45,
     "speed": 40,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "rhyperior"
     ]
@@ -2067,6 +2194,7 @@
     "specialDefense": 55,
     "speed": 40,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2082,6 +2210,7 @@
     "specialDefense": 65,
     "speed": 30,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "chansey"
     ]
@@ -2099,6 +2228,7 @@
     "specialDefense": 105,
     "speed": 50,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "blissey"
     ]
@@ -2116,6 +2246,7 @@
     "specialDefense": 135,
     "speed": 55,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -2131,6 +2262,7 @@
     "specialDefense": 40,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "tangrowth"
     ]
@@ -2148,6 +2280,7 @@
     "specialDefense": 50,
     "speed": 50,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2163,6 +2296,7 @@
     "specialDefense": 80,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2178,6 +2312,7 @@
     "specialDefense": 25,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "seadra"
     ]
@@ -2195,6 +2330,7 @@
     "specialDefense": 45,
     "speed": 85,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "kingdra"
     ]
@@ -2212,6 +2348,7 @@
     "specialDefense": 95,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -2227,6 +2364,7 @@
     "specialDefense": 50,
     "speed": 63,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "seaking"
     ]
@@ -2244,6 +2382,7 @@
     "specialDefense": 80,
     "speed": 68,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2259,6 +2398,7 @@
     "specialDefense": 55,
     "speed": 85,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "starmie"
     ]
@@ -2276,6 +2416,7 @@
     "specialDefense": 85,
     "speed": 115,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2291,6 +2432,7 @@
     "specialDefense": 90,
     "speed": 60,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "mr-mime"
     ]
@@ -2308,6 +2450,7 @@
     "specialDefense": 120,
     "speed": 90,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "mr-rime"
     ]
@@ -2325,6 +2468,7 @@
     "specialDefense": 100,
     "speed": 70,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -2340,6 +2484,7 @@
     "specialDefense": 80,
     "speed": 105,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "scizor",
       "kleavor"
@@ -2358,6 +2503,7 @@
     "specialDefense": 80,
     "speed": 65,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -2373,6 +2519,7 @@
     "specialDefense": 70,
     "speed": 85,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -2388,6 +2535,7 @@
     "specialDefense": 65,
     "speed": 65,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "jynx"
     ]
@@ -2405,6 +2553,7 @@
     "specialDefense": 95,
     "speed": 95,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2420,6 +2569,7 @@
     "specialDefense": 55,
     "speed": 95,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "electabuzz"
     ]
@@ -2437,6 +2587,7 @@
     "specialDefense": 85,
     "speed": 105,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "electivire"
     ]
@@ -2454,6 +2605,7 @@
     "specialDefense": 85,
     "speed": 95,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2469,6 +2621,7 @@
     "specialDefense": 55,
     "speed": 83,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "magmar"
     ]
@@ -2486,6 +2639,7 @@
     "specialDefense": 85,
     "speed": 93,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "magmortar"
     ]
@@ -2503,6 +2657,7 @@
     "specialDefense": 95,
     "speed": 83,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2518,6 +2673,7 @@
     "specialDefense": 70,
     "speed": 85,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2533,6 +2689,7 @@
     "specialDefense": 70,
     "speed": 110,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2548,6 +2705,7 @@
     "specialDefense": 20,
     "speed": 80,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "gyarados"
     ]
@@ -2565,6 +2723,7 @@
     "specialDefense": 100,
     "speed": 81,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2580,6 +2739,7 @@
     "specialDefense": 95,
     "speed": 60,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2595,6 +2755,7 @@
     "specialDefense": 48,
     "speed": 48,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2610,6 +2771,7 @@
     "specialDefense": 65,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "vaporeon",
       "jolteon",
@@ -2634,6 +2796,7 @@
     "specialDefense": 95,
     "speed": 65,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2649,6 +2812,7 @@
     "specialDefense": 95,
     "speed": 130,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2664,6 +2828,7 @@
     "specialDefense": 110,
     "speed": 65,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2679,6 +2844,7 @@
     "specialDefense": 95,
     "speed": 110,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -2694,6 +2860,7 @@
     "specialDefense": 130,
     "speed": 65,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -2709,6 +2876,7 @@
     "specialDefense": 65,
     "speed": 95,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2724,6 +2892,7 @@
     "specialDefense": 95,
     "speed": 65,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2739,6 +2908,7 @@
     "specialDefense": 130,
     "speed": 60,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -2754,6 +2924,7 @@
     "specialDefense": 75,
     "speed": 40,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "porygon2"
     ]
@@ -2771,6 +2942,7 @@
     "specialDefense": 95,
     "speed": 60,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "porygon-z"
     ]
@@ -2788,6 +2960,7 @@
     "specialDefense": 75,
     "speed": 90,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -2803,6 +2976,7 @@
     "specialDefense": 55,
     "speed": 35,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "omastar"
     ]
@@ -2820,6 +2994,7 @@
     "specialDefense": 70,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2835,6 +3010,7 @@
     "specialDefense": 45,
     "speed": 55,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "kabutops"
     ]
@@ -2852,6 +3028,7 @@
     "specialDefense": 70,
     "speed": 80,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2867,6 +3044,7 @@
     "specialDefense": 75,
     "speed": 130,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2882,6 +3060,7 @@
     "specialDefense": 85,
     "speed": 5,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "snorlax"
     ]
@@ -2899,6 +3078,7 @@
     "specialDefense": 110,
     "speed": 30,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2914,6 +3094,7 @@
     "specialDefense": 125,
     "speed": 85,
     "isLegendary": true,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2929,6 +3110,7 @@
     "specialDefense": 90,
     "speed": 100,
     "isLegendary": true,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2944,6 +3126,7 @@
     "specialDefense": 85,
     "speed": 90,
     "isLegendary": true,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -2959,6 +3142,7 @@
     "specialDefense": 50,
     "speed": 50,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "dragonair"
     ]
@@ -2976,6 +3160,7 @@
     "specialDefense": 70,
     "speed": 70,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": [
       "dragonite"
     ]
@@ -2993,6 +3178,7 @@
     "specialDefense": 100,
     "speed": 80,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -3008,6 +3194,7 @@
     "specialDefense": 90,
     "speed": 130,
     "isLegendary": true,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -3023,6 +3210,7 @@
     "specialDefense": 100,
     "speed": 100,
     "isLegendary": false,
+    "generation": 1,
     "evolvesInto": []
   },
   {
@@ -3038,6 +3226,7 @@
     "specialDefense": 65,
     "speed": 45,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "bayleef"
     ]
@@ -3055,6 +3244,7 @@
     "specialDefense": 80,
     "speed": 60,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "meganium"
     ]
@@ -3072,6 +3262,7 @@
     "specialDefense": 100,
     "speed": 80,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3087,6 +3278,7 @@
     "specialDefense": 50,
     "speed": 65,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "quilava"
     ]
@@ -3104,6 +3296,7 @@
     "specialDefense": 65,
     "speed": 80,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "typhlosion"
     ]
@@ -3121,6 +3314,7 @@
     "specialDefense": 85,
     "speed": 100,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3136,6 +3330,7 @@
     "specialDefense": 48,
     "speed": 43,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "croconaw"
     ]
@@ -3153,6 +3348,7 @@
     "specialDefense": 63,
     "speed": 58,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "feraligatr"
     ]
@@ -3170,6 +3366,7 @@
     "specialDefense": 83,
     "speed": 78,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3185,6 +3382,7 @@
     "specialDefense": 45,
     "speed": 20,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "furret"
     ]
@@ -3202,6 +3400,7 @@
     "specialDefense": 55,
     "speed": 90,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3217,6 +3416,7 @@
     "specialDefense": 56,
     "speed": 50,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "noctowl"
     ]
@@ -3234,6 +3434,7 @@
     "specialDefense": 96,
     "speed": 70,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3249,6 +3450,7 @@
     "specialDefense": 80,
     "speed": 55,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "ledian"
     ]
@@ -3266,6 +3468,7 @@
     "specialDefense": 110,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3281,6 +3484,7 @@
     "specialDefense": 40,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "ariados"
     ]
@@ -3298,6 +3502,7 @@
     "specialDefense": 70,
     "speed": 40,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3313,6 +3518,7 @@
     "specialDefense": 56,
     "speed": 67,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "lanturn"
     ]
@@ -3330,6 +3536,7 @@
     "specialDefense": 76,
     "speed": 67,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3345,6 +3552,7 @@
     "specialDefense": 65,
     "speed": 20,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "togetic"
     ]
@@ -3362,6 +3570,7 @@
     "specialDefense": 105,
     "speed": 40,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "togekiss"
     ]
@@ -3379,6 +3588,7 @@
     "specialDefense": 115,
     "speed": 80,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -3394,6 +3604,7 @@
     "specialDefense": 45,
     "speed": 70,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "xatu"
     ]
@@ -3411,6 +3622,7 @@
     "specialDefense": 70,
     "speed": 95,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3426,6 +3638,7 @@
     "specialDefense": 45,
     "speed": 35,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "flaaffy"
     ]
@@ -3443,6 +3656,7 @@
     "specialDefense": 60,
     "speed": 45,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "ampharos"
     ]
@@ -3460,6 +3674,7 @@
     "specialDefense": 90,
     "speed": 55,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3475,6 +3690,7 @@
     "specialDefense": 40,
     "speed": 20,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "marill"
     ]
@@ -3492,6 +3708,7 @@
     "specialDefense": 50,
     "speed": 40,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "azumarill"
     ]
@@ -3509,6 +3726,7 @@
     "specialDefense": 80,
     "speed": 50,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3524,6 +3742,7 @@
     "specialDefense": 45,
     "speed": 10,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "sudowoodo"
     ]
@@ -3541,6 +3760,7 @@
     "specialDefense": 65,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3556,6 +3776,7 @@
     "specialDefense": 55,
     "speed": 50,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "skiploom"
     ]
@@ -3573,6 +3794,7 @@
     "specialDefense": 65,
     "speed": 80,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "jumpluff"
     ]
@@ -3590,6 +3812,7 @@
     "specialDefense": 95,
     "speed": 110,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3605,6 +3828,7 @@
     "specialDefense": 55,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "ambipom"
     ]
@@ -3622,6 +3846,7 @@
     "specialDefense": 66,
     "speed": 115,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -3637,6 +3862,7 @@
     "specialDefense": 30,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "sunflora"
     ]
@@ -3654,6 +3880,7 @@
     "specialDefense": 85,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3669,6 +3896,7 @@
     "specialDefense": 45,
     "speed": 95,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "yanmega"
     ]
@@ -3686,6 +3914,7 @@
     "specialDefense": 56,
     "speed": 95,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -3701,6 +3930,7 @@
     "specialDefense": 25,
     "speed": 15,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "quagsire",
       "clodsire"
@@ -3719,6 +3949,7 @@
     "specialDefense": 65,
     "speed": 35,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3734,6 +3965,7 @@
     "specialDefense": 100,
     "speed": 20,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -3749,6 +3981,7 @@
     "specialDefense": 42,
     "speed": 91,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "honchkrow"
     ]
@@ -3766,6 +3999,7 @@
     "specialDefense": 52,
     "speed": 71,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -3781,6 +4015,7 @@
     "specialDefense": 85,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "mismagius"
     ]
@@ -3798,6 +4033,7 @@
     "specialDefense": 105,
     "speed": 105,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -3813,6 +4049,7 @@
     "specialDefense": 48,
     "speed": 48,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3828,6 +4065,7 @@
     "specialDefense": 48,
     "speed": 23,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "wobbuffet"
     ]
@@ -3845,6 +4083,7 @@
     "specialDefense": 58,
     "speed": 33,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3860,6 +4099,7 @@
     "specialDefense": 65,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "farigiraf"
     ]
@@ -3877,6 +4117,7 @@
     "specialDefense": 70,
     "speed": 60,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -3892,6 +4133,7 @@
     "specialDefense": 35,
     "speed": 15,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "forretress"
     ]
@@ -3909,6 +4151,7 @@
     "specialDefense": 60,
     "speed": 40,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -3924,6 +4167,7 @@
     "specialDefense": 65,
     "speed": 45,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "dudunsparce"
     ]
@@ -3941,6 +4185,7 @@
     "specialDefense": 75,
     "speed": 55,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -3956,6 +4201,7 @@
     "specialDefense": 65,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "gliscor"
     ]
@@ -3973,6 +4219,7 @@
     "specialDefense": 75,
     "speed": 95,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -3988,6 +4235,7 @@
     "specialDefense": 40,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "granbull"
     ]
@@ -4005,6 +4253,7 @@
     "specialDefense": 60,
     "speed": 45,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4020,6 +4269,7 @@
     "specialDefense": 55,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "overqwil"
     ]
@@ -4037,6 +4287,7 @@
     "specialDefense": 65,
     "speed": 85,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -4052,6 +4303,7 @@
     "specialDefense": 230,
     "speed": 5,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4067,6 +4319,7 @@
     "specialDefense": 95,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4082,6 +4335,7 @@
     "specialDefense": 75,
     "speed": 115,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "weavile",
       "sneasler"
@@ -4100,6 +4354,7 @@
     "specialDefense": 85,
     "speed": 125,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -4115,6 +4370,7 @@
     "specialDefense": 80,
     "speed": 120,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -4130,6 +4386,7 @@
     "specialDefense": 50,
     "speed": 40,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "ursaring"
     ]
@@ -4147,6 +4404,7 @@
     "specialDefense": 75,
     "speed": 55,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "ursaluna"
     ]
@@ -4164,6 +4422,7 @@
     "specialDefense": 80,
     "speed": 50,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -4179,6 +4438,7 @@
     "specialDefense": 40,
     "speed": 20,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "magcargo"
     ]
@@ -4196,6 +4456,7 @@
     "specialDefense": 80,
     "speed": 30,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4211,6 +4472,7 @@
     "specialDefense": 30,
     "speed": 50,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "piloswine"
     ]
@@ -4228,6 +4490,7 @@
     "specialDefense": 60,
     "speed": 50,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "mamoswine"
     ]
@@ -4245,6 +4508,7 @@
     "specialDefense": 60,
     "speed": 80,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -4260,6 +4524,7 @@
     "specialDefense": 95,
     "speed": 35,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "cursola"
     ]
@@ -4277,6 +4542,7 @@
     "specialDefense": 130,
     "speed": 30,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -4292,6 +4558,7 @@
     "specialDefense": 35,
     "speed": 65,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "octillery"
     ]
@@ -4309,6 +4576,7 @@
     "specialDefense": 75,
     "speed": 45,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4324,6 +4592,7 @@
     "specialDefense": 45,
     "speed": 75,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4339,6 +4608,7 @@
     "specialDefense": 120,
     "speed": 50,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "mantine"
     ]
@@ -4356,6 +4626,7 @@
     "specialDefense": 140,
     "speed": 70,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4371,6 +4642,7 @@
     "specialDefense": 70,
     "speed": 70,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4386,6 +4658,7 @@
     "specialDefense": 50,
     "speed": 65,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "houndoom"
     ]
@@ -4403,6 +4676,7 @@
     "specialDefense": 80,
     "speed": 95,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4418,6 +4692,7 @@
     "specialDefense": 40,
     "speed": 40,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "donphan"
     ]
@@ -4435,6 +4710,7 @@
     "specialDefense": 60,
     "speed": 50,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4450,6 +4726,7 @@
     "specialDefense": 65,
     "speed": 85,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "wyrdeer"
     ]
@@ -4467,6 +4744,7 @@
     "specialDefense": 75,
     "speed": 65,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -4482,6 +4760,7 @@
     "specialDefense": 45,
     "speed": 75,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4497,6 +4776,7 @@
     "specialDefense": 70,
     "speed": 100,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4512,6 +4792,7 @@
     "specialDefense": 100,
     "speed": 115,
     "isLegendary": true,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4527,6 +4808,7 @@
     "specialDefense": 75,
     "speed": 100,
     "isLegendary": true,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4542,6 +4824,7 @@
     "specialDefense": 115,
     "speed": 85,
     "isLegendary": true,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4557,6 +4840,7 @@
     "specialDefense": 50,
     "speed": 41,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "pupitar"
     ]
@@ -4574,6 +4858,7 @@
     "specialDefense": 70,
     "speed": 51,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": [
       "tyranitar"
     ]
@@ -4591,6 +4876,7 @@
     "specialDefense": 100,
     "speed": 61,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4606,6 +4892,7 @@
     "specialDefense": 154,
     "speed": 110,
     "isLegendary": true,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4621,6 +4908,7 @@
     "specialDefense": 154,
     "speed": 90,
     "isLegendary": true,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4636,6 +4924,7 @@
     "specialDefense": 100,
     "speed": 100,
     "isLegendary": false,
+    "generation": 2,
     "evolvesInto": []
   },
   {
@@ -4651,6 +4940,7 @@
     "specialDefense": 55,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "grovyle"
     ]
@@ -4668,6 +4958,7 @@
     "specialDefense": 65,
     "speed": 95,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "sceptile"
     ]
@@ -4685,6 +4976,7 @@
     "specialDefense": 85,
     "speed": 120,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -4700,6 +4992,7 @@
     "specialDefense": 50,
     "speed": 45,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "combusken"
     ]
@@ -4717,6 +5010,7 @@
     "specialDefense": 60,
     "speed": 55,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "blaziken"
     ]
@@ -4734,6 +5028,7 @@
     "specialDefense": 70,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -4749,6 +5044,7 @@
     "specialDefense": 50,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "marshtomp"
     ]
@@ -4766,6 +5062,7 @@
     "specialDefense": 70,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "swampert"
     ]
@@ -4783,6 +5080,7 @@
     "specialDefense": 90,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -4798,6 +5096,7 @@
     "specialDefense": 30,
     "speed": 35,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "mightyena"
     ]
@@ -4815,6 +5114,7 @@
     "specialDefense": 60,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -4830,6 +5130,7 @@
     "specialDefense": 41,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "linoone"
     ]
@@ -4847,6 +5148,7 @@
     "specialDefense": 61,
     "speed": 100,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "obstagoon"
     ]
@@ -4864,6 +5166,7 @@
     "specialDefense": 81,
     "speed": 95,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -4879,6 +5182,7 @@
     "specialDefense": 30,
     "speed": 20,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "silcoon",
       "cascoon"
@@ -4897,6 +5201,7 @@
     "specialDefense": 25,
     "speed": 15,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "beautifly"
     ]
@@ -4914,6 +5219,7 @@
     "specialDefense": 50,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -4929,6 +5235,7 @@
     "specialDefense": 25,
     "speed": 15,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "dustox"
     ]
@@ -4946,6 +5253,7 @@
     "specialDefense": 90,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -4961,6 +5269,7 @@
     "specialDefense": 50,
     "speed": 30,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "lombre"
     ]
@@ -4978,6 +5287,7 @@
     "specialDefense": 70,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "ludicolo"
     ]
@@ -4995,6 +5305,7 @@
     "specialDefense": 100,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5010,6 +5321,7 @@
     "specialDefense": 30,
     "speed": 30,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "nuzleaf"
     ]
@@ -5027,6 +5339,7 @@
     "specialDefense": 40,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "shiftry"
     ]
@@ -5044,6 +5357,7 @@
     "specialDefense": 60,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5059,6 +5373,7 @@
     "specialDefense": 30,
     "speed": 85,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "swellow"
     ]
@@ -5076,6 +5391,7 @@
     "specialDefense": 50,
     "speed": 125,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5091,6 +5407,7 @@
     "specialDefense": 30,
     "speed": 85,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "pelipper"
     ]
@@ -5108,6 +5425,7 @@
     "specialDefense": 70,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5123,6 +5441,7 @@
     "specialDefense": 35,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "kirlia"
     ]
@@ -5140,6 +5459,7 @@
     "specialDefense": 55,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "gardevoir",
       "gallade"
@@ -5158,6 +5478,7 @@
     "specialDefense": 115,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5173,6 +5494,7 @@
     "specialDefense": 115,
     "speed": 80,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -5188,6 +5510,7 @@
     "specialDefense": 52,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "masquerain"
     ]
@@ -5205,6 +5528,7 @@
     "specialDefense": 82,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5220,6 +5544,7 @@
     "specialDefense": 60,
     "speed": 35,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "breloom"
     ]
@@ -5237,6 +5562,7 @@
     "specialDefense": 60,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5252,6 +5578,7 @@
     "specialDefense": 35,
     "speed": 30,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "vigoroth"
     ]
@@ -5269,6 +5596,7 @@
     "specialDefense": 55,
     "speed": 90,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "slaking"
     ]
@@ -5286,6 +5614,7 @@
     "specialDefense": 65,
     "speed": 100,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5301,6 +5630,7 @@
     "specialDefense": 30,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "ninjask",
       "shedinja"
@@ -5319,6 +5649,7 @@
     "specialDefense": 50,
     "speed": 160,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5334,6 +5665,7 @@
     "specialDefense": 30,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5349,6 +5681,7 @@
     "specialDefense": 23,
     "speed": 28,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "loudred"
     ]
@@ -5366,6 +5699,7 @@
     "specialDefense": 43,
     "speed": 48,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "exploud"
     ]
@@ -5383,6 +5717,7 @@
     "specialDefense": 73,
     "speed": 68,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5398,6 +5733,7 @@
     "specialDefense": 30,
     "speed": 25,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "hariyama"
     ]
@@ -5415,6 +5751,7 @@
     "specialDefense": 60,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5430,6 +5767,7 @@
     "specialDefense": 90,
     "speed": 30,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "probopass"
     ]
@@ -5447,6 +5785,7 @@
     "specialDefense": 150,
     "speed": 40,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -5462,6 +5801,7 @@
     "specialDefense": 35,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "delcatty"
     ]
@@ -5479,6 +5819,7 @@
     "specialDefense": 55,
     "speed": 90,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5494,6 +5835,7 @@
     "specialDefense": 65,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5509,6 +5851,7 @@
     "specialDefense": 55,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5524,6 +5867,7 @@
     "specialDefense": 40,
     "speed": 30,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "lairon"
     ]
@@ -5541,6 +5885,7 @@
     "specialDefense": 50,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "aggron"
     ]
@@ -5558,6 +5903,7 @@
     "specialDefense": 60,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5573,6 +5919,7 @@
     "specialDefense": 55,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "medicham"
     ]
@@ -5590,6 +5937,7 @@
     "specialDefense": 75,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5605,6 +5953,7 @@
     "specialDefense": 40,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "manectric"
     ]
@@ -5622,6 +5971,7 @@
     "specialDefense": 60,
     "speed": 105,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5637,6 +5987,7 @@
     "specialDefense": 75,
     "speed": 95,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5652,6 +6003,7 @@
     "specialDefense": 85,
     "speed": 95,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5667,6 +6019,7 @@
     "specialDefense": 85,
     "speed": 85,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5682,6 +6035,7 @@
     "specialDefense": 85,
     "speed": 85,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5697,6 +6051,7 @@
     "specialDefense": 70,
     "speed": 55,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "roselia"
     ]
@@ -5714,6 +6069,7 @@
     "specialDefense": 80,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "roserade"
     ]
@@ -5731,6 +6087,7 @@
     "specialDefense": 105,
     "speed": 90,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -5746,6 +6103,7 @@
     "specialDefense": 53,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "swalot"
     ]
@@ -5763,6 +6121,7 @@
     "specialDefense": 83,
     "speed": 55,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5778,6 +6137,7 @@
     "specialDefense": 20,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "sharpedo"
     ]
@@ -5795,6 +6155,7 @@
     "specialDefense": 40,
     "speed": 95,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5810,6 +6171,7 @@
     "specialDefense": 35,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "wailord"
     ]
@@ -5827,6 +6189,7 @@
     "specialDefense": 45,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5842,6 +6205,7 @@
     "specialDefense": 45,
     "speed": 35,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "camerupt"
     ]
@@ -5859,6 +6223,7 @@
     "specialDefense": 75,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5874,6 +6239,7 @@
     "specialDefense": 70,
     "speed": 20,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5889,6 +6255,7 @@
     "specialDefense": 80,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "grumpig"
     ]
@@ -5906,6 +6273,7 @@
     "specialDefense": 110,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5921,6 +6289,7 @@
     "specialDefense": 60,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5936,6 +6305,7 @@
     "specialDefense": 45,
     "speed": 10,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "vibrava"
     ]
@@ -5953,6 +6323,7 @@
     "specialDefense": 50,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "flygon"
     ]
@@ -5970,6 +6341,7 @@
     "specialDefense": 80,
     "speed": 100,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -5985,6 +6357,7 @@
     "specialDefense": 40,
     "speed": 35,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "cacturne"
     ]
@@ -6002,6 +6375,7 @@
     "specialDefense": 60,
     "speed": 55,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6017,6 +6391,7 @@
     "specialDefense": 75,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "altaria"
     ]
@@ -6034,6 +6409,7 @@
     "specialDefense": 105,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6049,6 +6425,7 @@
     "specialDefense": 60,
     "speed": 90,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6064,6 +6441,7 @@
     "specialDefense": 60,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6079,6 +6457,7 @@
     "specialDefense": 85,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6094,6 +6473,7 @@
     "specialDefense": 65,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6109,6 +6489,7 @@
     "specialDefense": 41,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "whiscash"
     ]
@@ -6126,6 +6507,7 @@
     "specialDefense": 71,
     "speed": 60,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6141,6 +6523,7 @@
     "specialDefense": 35,
     "speed": 35,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "crawdaunt"
     ]
@@ -6158,6 +6541,7 @@
     "specialDefense": 55,
     "speed": 55,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6173,6 +6557,7 @@
     "specialDefense": 70,
     "speed": 55,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "claydol"
     ]
@@ -6190,6 +6575,7 @@
     "specialDefense": 120,
     "speed": 75,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6205,6 +6591,7 @@
     "specialDefense": 87,
     "speed": 23,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "cradily"
     ]
@@ -6222,6 +6609,7 @@
     "specialDefense": 107,
     "speed": 43,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6237,6 +6625,7 @@
     "specialDefense": 50,
     "speed": 75,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "armaldo"
     ]
@@ -6254,6 +6643,7 @@
     "specialDefense": 80,
     "speed": 45,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6269,6 +6659,7 @@
     "specialDefense": 55,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "milotic"
     ]
@@ -6286,6 +6677,7 @@
     "specialDefense": 125,
     "speed": 81,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6301,6 +6693,7 @@
     "specialDefense": 70,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6316,6 +6709,7 @@
     "specialDefense": 120,
     "speed": 40,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6331,6 +6725,7 @@
     "specialDefense": 33,
     "speed": 45,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "banette"
     ]
@@ -6348,6 +6743,7 @@
     "specialDefense": 63,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6363,6 +6759,7 @@
     "specialDefense": 90,
     "speed": 25,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "dusclops"
     ]
@@ -6380,6 +6777,7 @@
     "specialDefense": 130,
     "speed": 25,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "dusknoir"
     ]
@@ -6397,6 +6795,7 @@
     "specialDefense": 135,
     "speed": 45,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -6412,6 +6811,7 @@
     "specialDefense": 87,
     "speed": 51,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6427,6 +6827,7 @@
     "specialDefense": 50,
     "speed": 45,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "chimecho"
     ]
@@ -6444,6 +6845,7 @@
     "specialDefense": 90,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6459,6 +6861,7 @@
     "specialDefense": 60,
     "speed": 75,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6474,6 +6877,7 @@
     "specialDefense": 50,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "glalie",
       "froslass"
@@ -6492,6 +6896,7 @@
     "specialDefense": 80,
     "speed": 80,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6507,6 +6912,7 @@
     "specialDefense": 70,
     "speed": 110,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -6522,6 +6928,7 @@
     "specialDefense": 50,
     "speed": 25,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "sealeo"
     ]
@@ -6539,6 +6946,7 @@
     "specialDefense": 70,
     "speed": 45,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "walrein"
     ]
@@ -6556,6 +6964,7 @@
     "specialDefense": 90,
     "speed": 65,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6571,6 +6980,7 @@
     "specialDefense": 55,
     "speed": 32,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "huntail",
       "gorebyss"
@@ -6589,6 +6999,7 @@
     "specialDefense": 75,
     "speed": 52,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6604,6 +7015,7 @@
     "specialDefense": 75,
     "speed": 52,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6619,6 +7031,7 @@
     "specialDefense": 65,
     "speed": 55,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6634,6 +7047,7 @@
     "specialDefense": 65,
     "speed": 97,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6649,6 +7063,7 @@
     "specialDefense": 30,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "shelgon"
     ]
@@ -6666,6 +7081,7 @@
     "specialDefense": 50,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "salamence"
     ]
@@ -6683,6 +7099,7 @@
     "specialDefense": 80,
     "speed": 100,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6698,6 +7115,7 @@
     "specialDefense": 60,
     "speed": 30,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "metang"
     ]
@@ -6715,6 +7133,7 @@
     "specialDefense": 80,
     "speed": 50,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": [
       "metagross"
     ]
@@ -6732,6 +7151,7 @@
     "specialDefense": 90,
     "speed": 70,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6747,6 +7167,7 @@
     "specialDefense": 100,
     "speed": 50,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6762,6 +7183,7 @@
     "specialDefense": 200,
     "speed": 50,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6777,6 +7199,7 @@
     "specialDefense": 150,
     "speed": 50,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6792,6 +7215,7 @@
     "specialDefense": 130,
     "speed": 110,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6807,6 +7231,7 @@
     "specialDefense": 110,
     "speed": 110,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6822,6 +7247,7 @@
     "specialDefense": 140,
     "speed": 90,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6837,6 +7263,7 @@
     "specialDefense": 90,
     "speed": 90,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6852,6 +7279,7 @@
     "specialDefense": 90,
     "speed": 95,
     "isLegendary": true,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6867,6 +7295,7 @@
     "specialDefense": 100,
     "speed": 100,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6882,6 +7311,7 @@
     "specialDefense": 50,
     "speed": 150,
     "isLegendary": false,
+    "generation": 3,
     "evolvesInto": []
   },
   {
@@ -6897,6 +7327,7 @@
     "specialDefense": 55,
     "speed": 31,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "grotle"
     ]
@@ -6914,6 +7345,7 @@
     "specialDefense": 65,
     "speed": 36,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "torterra"
     ]
@@ -6931,6 +7363,7 @@
     "specialDefense": 85,
     "speed": 56,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -6946,6 +7379,7 @@
     "specialDefense": 44,
     "speed": 61,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "monferno"
     ]
@@ -6963,6 +7397,7 @@
     "specialDefense": 52,
     "speed": 81,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "infernape"
     ]
@@ -6980,6 +7415,7 @@
     "specialDefense": 71,
     "speed": 108,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -6995,6 +7431,7 @@
     "specialDefense": 56,
     "speed": 40,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "prinplup"
     ]
@@ -7012,6 +7449,7 @@
     "specialDefense": 76,
     "speed": 50,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "empoleon"
     ]
@@ -7029,6 +7467,7 @@
     "specialDefense": 101,
     "speed": 60,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7044,6 +7483,7 @@
     "specialDefense": 30,
     "speed": 60,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "staravia"
     ]
@@ -7061,6 +7501,7 @@
     "specialDefense": 40,
     "speed": 80,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "staraptor"
     ]
@@ -7078,6 +7519,7 @@
     "specialDefense": 60,
     "speed": 100,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7093,6 +7535,7 @@
     "specialDefense": 40,
     "speed": 31,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "bibarel"
     ]
@@ -7110,6 +7553,7 @@
     "specialDefense": 60,
     "speed": 71,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7125,6 +7569,7 @@
     "specialDefense": 41,
     "speed": 25,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "kricketune"
     ]
@@ -7142,6 +7587,7 @@
     "specialDefense": 51,
     "speed": 65,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7157,6 +7603,7 @@
     "specialDefense": 34,
     "speed": 45,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "luxio"
     ]
@@ -7174,6 +7621,7 @@
     "specialDefense": 49,
     "speed": 60,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "luxray"
     ]
@@ -7191,6 +7639,7 @@
     "specialDefense": 79,
     "speed": 70,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7206,6 +7655,7 @@
     "specialDefense": 30,
     "speed": 58,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "rampardos"
     ]
@@ -7223,6 +7673,7 @@
     "specialDefense": 50,
     "speed": 58,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7238,6 +7689,7 @@
     "specialDefense": 88,
     "speed": 30,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "bastiodon"
     ]
@@ -7255,6 +7707,7 @@
     "specialDefense": 138,
     "speed": 30,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7270,6 +7723,7 @@
     "specialDefense": 45,
     "speed": 36,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "wormadam",
       "mothim"
@@ -7288,6 +7742,7 @@
     "specialDefense": 105,
     "speed": 36,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7303,6 +7758,7 @@
     "specialDefense": 50,
     "speed": 66,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7318,6 +7774,7 @@
     "specialDefense": 42,
     "speed": 70,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "vespiquen"
     ]
@@ -7335,6 +7792,7 @@
     "specialDefense": 102,
     "speed": 40,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7350,6 +7808,7 @@
     "specialDefense": 90,
     "speed": 95,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7365,6 +7824,7 @@
     "specialDefense": 30,
     "speed": 85,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "floatzel"
     ]
@@ -7382,6 +7842,7 @@
     "specialDefense": 50,
     "speed": 115,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7397,6 +7858,7 @@
     "specialDefense": 53,
     "speed": 35,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "cherrim"
     ]
@@ -7414,6 +7876,7 @@
     "specialDefense": 78,
     "speed": 85,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7429,6 +7892,7 @@
     "specialDefense": 62,
     "speed": 34,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "gastrodon"
     ]
@@ -7446,6 +7910,7 @@
     "specialDefense": 82,
     "speed": 39,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7461,6 +7926,7 @@
     "specialDefense": 44,
     "speed": 70,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "drifblim"
     ]
@@ -7478,6 +7944,7 @@
     "specialDefense": 54,
     "speed": 80,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7493,6 +7960,7 @@
     "specialDefense": 56,
     "speed": 85,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "lopunny"
     ]
@@ -7510,6 +7978,7 @@
     "specialDefense": 96,
     "speed": 105,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7525,6 +7994,7 @@
     "specialDefense": 37,
     "speed": 85,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "purugly"
     ]
@@ -7542,6 +8012,7 @@
     "specialDefense": 59,
     "speed": 112,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7557,6 +8028,7 @@
     "specialDefense": 41,
     "speed": 74,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "skuntank"
     ]
@@ -7574,6 +8046,7 @@
     "specialDefense": 61,
     "speed": 84,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7589,6 +8062,7 @@
     "specialDefense": 86,
     "speed": 23,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "bronzong"
     ]
@@ -7606,6 +8080,7 @@
     "specialDefense": 116,
     "speed": 33,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7621,6 +8096,7 @@
     "specialDefense": 42,
     "speed": 91,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7636,6 +8112,7 @@
     "specialDefense": 108,
     "speed": 35,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7651,6 +8128,7 @@
     "specialDefense": 45,
     "speed": 42,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "gabite"
     ]
@@ -7668,6 +8146,7 @@
     "specialDefense": 55,
     "speed": 82,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "garchomp"
     ]
@@ -7685,6 +8164,7 @@
     "specialDefense": 85,
     "speed": 102,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7700,6 +8180,7 @@
     "specialDefense": 40,
     "speed": 60,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "lucario"
     ]
@@ -7717,6 +8198,7 @@
     "specialDefense": 70,
     "speed": 90,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7732,6 +8214,7 @@
     "specialDefense": 42,
     "speed": 32,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "hippowdon"
     ]
@@ -7749,6 +8232,7 @@
     "specialDefense": 72,
     "speed": 47,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7764,6 +8248,7 @@
     "specialDefense": 55,
     "speed": 65,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "drapion"
     ]
@@ -7781,6 +8266,7 @@
     "specialDefense": 75,
     "speed": 95,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7796,6 +8282,7 @@
     "specialDefense": 40,
     "speed": 50,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "toxicroak"
     ]
@@ -7813,6 +8300,7 @@
     "specialDefense": 65,
     "speed": 85,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7828,6 +8316,7 @@
     "specialDefense": 72,
     "speed": 46,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7843,6 +8332,7 @@
     "specialDefense": 61,
     "speed": 66,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "lumineon"
     ]
@@ -7860,6 +8350,7 @@
     "specialDefense": 86,
     "speed": 91,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7875,6 +8366,7 @@
     "specialDefense": 60,
     "speed": 40,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "abomasnow"
     ]
@@ -7892,6 +8384,7 @@
     "specialDefense": 85,
     "speed": 60,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7907,6 +8400,7 @@
     "specialDefense": 77,
     "speed": 91,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7922,6 +8416,7 @@
     "specialDefense": 130,
     "speed": 95,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7937,6 +8432,7 @@
     "specialDefense": 105,
     "speed": 80,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7952,6 +8448,7 @@
     "specialDefense": 70,
     "speed": 115,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7967,6 +8464,7 @@
     "specialDefense": 100,
     "speed": 90,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7982,6 +8480,7 @@
     "specialDefense": 120,
     "speed": 100,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -7997,6 +8496,7 @@
     "specialDefense": 106,
     "speed": 77,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8012,6 +8512,7 @@
     "specialDefense": 110,
     "speed": 100,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8027,6 +8528,7 @@
     "specialDefense": 120,
     "speed": 90,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8042,6 +8544,7 @@
     "specialDefense": 120,
     "speed": 85,
     "isLegendary": true,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8057,6 +8560,7 @@
     "specialDefense": 80,
     "speed": 80,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": [
       "manaphy"
     ]
@@ -8074,6 +8578,7 @@
     "specialDefense": 100,
     "speed": 100,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8089,6 +8594,7 @@
     "specialDefense": 90,
     "speed": 125,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8104,6 +8610,7 @@
     "specialDefense": 100,
     "speed": 100,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8119,6 +8626,7 @@
     "specialDefense": 120,
     "speed": 120,
     "isLegendary": false,
+    "generation": 4,
     "evolvesInto": []
   },
   {
@@ -8134,6 +8642,7 @@
     "specialDefense": 100,
     "speed": 100,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8149,6 +8658,7 @@
     "specialDefense": 55,
     "speed": 63,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "servine"
     ]
@@ -8166,6 +8676,7 @@
     "specialDefense": 75,
     "speed": 83,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "serperior"
     ]
@@ -8183,6 +8694,7 @@
     "specialDefense": 95,
     "speed": 113,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8198,6 +8710,7 @@
     "specialDefense": 45,
     "speed": 45,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "pignite"
     ]
@@ -8215,6 +8728,7 @@
     "specialDefense": 55,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "emboar"
     ]
@@ -8232,6 +8746,7 @@
     "specialDefense": 65,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8247,6 +8762,7 @@
     "specialDefense": 45,
     "speed": 45,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "dewott"
     ]
@@ -8264,6 +8780,7 @@
     "specialDefense": 60,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "samurott"
     ]
@@ -8281,6 +8798,7 @@
     "specialDefense": 70,
     "speed": 70,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8296,6 +8814,7 @@
     "specialDefense": 39,
     "speed": 42,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "watchog"
     ]
@@ -8313,6 +8832,7 @@
     "specialDefense": 69,
     "speed": 77,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8328,6 +8848,7 @@
     "specialDefense": 45,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "herdier"
     ]
@@ -8345,6 +8866,7 @@
     "specialDefense": 65,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "stoutland"
     ]
@@ -8362,6 +8884,7 @@
     "specialDefense": 90,
     "speed": 80,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8377,6 +8900,7 @@
     "specialDefense": 37,
     "speed": 66,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "liepard"
     ]
@@ -8394,6 +8918,7 @@
     "specialDefense": 50,
     "speed": 106,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8409,6 +8934,7 @@
     "specialDefense": 48,
     "speed": 64,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "simisage"
     ]
@@ -8426,6 +8952,7 @@
     "specialDefense": 63,
     "speed": 101,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8441,6 +8968,7 @@
     "specialDefense": 48,
     "speed": 64,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "simisear"
     ]
@@ -8458,6 +8986,7 @@
     "specialDefense": 63,
     "speed": 101,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8473,6 +9002,7 @@
     "specialDefense": 48,
     "speed": 64,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "simipour"
     ]
@@ -8490,6 +9020,7 @@
     "specialDefense": 63,
     "speed": 101,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8505,6 +9036,7 @@
     "specialDefense": 55,
     "speed": 24,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "musharna"
     ]
@@ -8522,6 +9054,7 @@
     "specialDefense": 95,
     "speed": 29,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8537,6 +9070,7 @@
     "specialDefense": 30,
     "speed": 43,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "tranquill"
     ]
@@ -8554,6 +9088,7 @@
     "specialDefense": 42,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "unfezant"
     ]
@@ -8571,6 +9106,7 @@
     "specialDefense": 55,
     "speed": 93,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8586,6 +9122,7 @@
     "specialDefense": 32,
     "speed": 76,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "zebstrika"
     ]
@@ -8603,6 +9140,7 @@
     "specialDefense": 63,
     "speed": 116,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8618,6 +9156,7 @@
     "specialDefense": 25,
     "speed": 15,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "boldore"
     ]
@@ -8635,6 +9174,7 @@
     "specialDefense": 40,
     "speed": 20,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "gigalith"
     ]
@@ -8652,6 +9192,7 @@
     "specialDefense": 80,
     "speed": 25,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8667,6 +9208,7 @@
     "specialDefense": 43,
     "speed": 72,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "swoobat"
     ]
@@ -8684,6 +9226,7 @@
     "specialDefense": 55,
     "speed": 114,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8699,6 +9242,7 @@
     "specialDefense": 45,
     "speed": 68,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "excadrill"
     ]
@@ -8716,6 +9260,7 @@
     "specialDefense": 65,
     "speed": 88,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8731,6 +9276,7 @@
     "specialDefense": 86,
     "speed": 50,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8746,6 +9292,7 @@
     "specialDefense": 35,
     "speed": 35,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "gurdurr"
     ]
@@ -8763,6 +9310,7 @@
     "specialDefense": 50,
     "speed": 40,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "conkeldurr"
     ]
@@ -8780,6 +9328,7 @@
     "specialDefense": 65,
     "speed": 45,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8795,6 +9344,7 @@
     "specialDefense": 40,
     "speed": 64,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "palpitoad"
     ]
@@ -8812,6 +9362,7 @@
     "specialDefense": 55,
     "speed": 69,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "seismitoad"
     ]
@@ -8829,6 +9380,7 @@
     "specialDefense": 75,
     "speed": 74,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8844,6 +9396,7 @@
     "specialDefense": 85,
     "speed": 45,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8859,6 +9412,7 @@
     "specialDefense": 75,
     "speed": 85,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8874,6 +9428,7 @@
     "specialDefense": 60,
     "speed": 42,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "swadloon"
     ]
@@ -8891,6 +9446,7 @@
     "specialDefense": 80,
     "speed": 42,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "leavanny"
     ]
@@ -8908,6 +9464,7 @@
     "specialDefense": 80,
     "speed": 92,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8923,6 +9480,7 @@
     "specialDefense": 39,
     "speed": 57,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "whirlipede"
     ]
@@ -8940,6 +9498,7 @@
     "specialDefense": 79,
     "speed": 47,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "scolipede"
     ]
@@ -8957,6 +9516,7 @@
     "specialDefense": 69,
     "speed": 112,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -8972,6 +9532,7 @@
     "specialDefense": 50,
     "speed": 66,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "whimsicott"
     ]
@@ -8989,6 +9550,7 @@
     "specialDefense": 75,
     "speed": 116,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9004,6 +9566,7 @@
     "specialDefense": 50,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "lilligant"
     ]
@@ -9021,6 +9584,7 @@
     "specialDefense": 75,
     "speed": 90,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9036,6 +9600,7 @@
     "specialDefense": 55,
     "speed": 98,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "basculegion"
     ]
@@ -9053,6 +9618,7 @@
     "specialDefense": 75,
     "speed": 78,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -9068,6 +9634,7 @@
     "specialDefense": 35,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "krokorok"
     ]
@@ -9085,6 +9652,7 @@
     "specialDefense": 45,
     "speed": 74,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "krookodile"
     ]
@@ -9102,6 +9670,7 @@
     "specialDefense": 70,
     "speed": 92,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9117,6 +9686,7 @@
     "specialDefense": 45,
     "speed": 50,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "darmanitan"
     ]
@@ -9134,6 +9704,7 @@
     "specialDefense": 55,
     "speed": 95,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9149,6 +9720,7 @@
     "specialDefense": 67,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9164,6 +9736,7 @@
     "specialDefense": 35,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "crustle"
     ]
@@ -9181,6 +9754,7 @@
     "specialDefense": 75,
     "speed": 45,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9196,6 +9770,7 @@
     "specialDefense": 70,
     "speed": 48,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "scrafty"
     ]
@@ -9213,6 +9788,7 @@
     "specialDefense": 115,
     "speed": 58,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9228,6 +9804,7 @@
     "specialDefense": 80,
     "speed": 97,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9243,6 +9820,7 @@
     "specialDefense": 65,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "cofagrigus",
       "runerigus"
@@ -9261,6 +9839,7 @@
     "specialDefense": 105,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9276,6 +9855,7 @@
     "specialDefense": 105,
     "speed": 30,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -9291,6 +9871,7 @@
     "specialDefense": 45,
     "speed": 22,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "carracosta"
     ]
@@ -9308,6 +9889,7 @@
     "specialDefense": 65,
     "speed": 32,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9323,6 +9905,7 @@
     "specialDefense": 45,
     "speed": 70,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "archeops"
     ]
@@ -9340,6 +9923,7 @@
     "specialDefense": 65,
     "speed": 110,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9355,6 +9939,7 @@
     "specialDefense": 62,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "garbodor"
     ]
@@ -9372,6 +9957,7 @@
     "specialDefense": 82,
     "speed": 75,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9387,6 +9973,7 @@
     "specialDefense": 40,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "zoroark"
     ]
@@ -9404,6 +9991,7 @@
     "specialDefense": 60,
     "speed": 105,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9419,6 +10007,7 @@
     "specialDefense": 40,
     "speed": 75,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "cinccino"
     ]
@@ -9436,6 +10025,7 @@
     "specialDefense": 60,
     "speed": 115,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9451,6 +10041,7 @@
     "specialDefense": 65,
     "speed": 45,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "gothorita"
     ]
@@ -9468,6 +10059,7 @@
     "specialDefense": 85,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "gothitelle"
     ]
@@ -9485,6 +10077,7 @@
     "specialDefense": 110,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9500,6 +10093,7 @@
     "specialDefense": 50,
     "speed": 20,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "duosion"
     ]
@@ -9517,6 +10111,7 @@
     "specialDefense": 60,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "reuniclus"
     ]
@@ -9534,6 +10129,7 @@
     "specialDefense": 85,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9549,6 +10145,7 @@
     "specialDefense": 50,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "swanna"
     ]
@@ -9566,6 +10163,7 @@
     "specialDefense": 63,
     "speed": 98,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9581,6 +10179,7 @@
     "specialDefense": 60,
     "speed": 44,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "vanillish"
     ]
@@ -9598,6 +10197,7 @@
     "specialDefense": 75,
     "speed": 59,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "vanilluxe"
     ]
@@ -9615,6 +10215,7 @@
     "specialDefense": 95,
     "speed": 79,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9630,6 +10231,7 @@
     "specialDefense": 50,
     "speed": 75,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "sawsbuck"
     ]
@@ -9647,6 +10249,7 @@
     "specialDefense": 70,
     "speed": 95,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9662,6 +10265,7 @@
     "specialDefense": 60,
     "speed": 103,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9677,6 +10281,7 @@
     "specialDefense": 45,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "escavalier"
     ]
@@ -9694,6 +10299,7 @@
     "specialDefense": 105,
     "speed": 20,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9709,6 +10315,7 @@
     "specialDefense": 55,
     "speed": 15,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "amoonguss"
     ]
@@ -9726,6 +10333,7 @@
     "specialDefense": 80,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9741,6 +10349,7 @@
     "specialDefense": 85,
     "speed": 40,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "jellicent"
     ]
@@ -9758,6 +10367,7 @@
     "specialDefense": 105,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9773,6 +10383,7 @@
     "specialDefense": 45,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9788,6 +10399,7 @@
     "specialDefense": 50,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "galvantula"
     ]
@@ -9805,6 +10417,7 @@
     "specialDefense": 60,
     "speed": 108,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9820,6 +10433,7 @@
     "specialDefense": 86,
     "speed": 10,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "ferrothorn"
     ]
@@ -9837,6 +10451,7 @@
     "specialDefense": 116,
     "speed": 20,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9852,6 +10467,7 @@
     "specialDefense": 60,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "klang"
     ]
@@ -9869,6 +10485,7 @@
     "specialDefense": 85,
     "speed": 50,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "klinklang"
     ]
@@ -9886,6 +10503,7 @@
     "specialDefense": 85,
     "speed": 90,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9901,6 +10519,7 @@
     "specialDefense": 40,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "eelektrik"
     ]
@@ -9918,6 +10537,7 @@
     "specialDefense": 70,
     "speed": 40,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "eelektross"
     ]
@@ -9935,6 +10555,7 @@
     "specialDefense": 80,
     "speed": 50,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9950,6 +10571,7 @@
     "specialDefense": 55,
     "speed": 30,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "beheeyem"
     ]
@@ -9967,6 +10589,7 @@
     "specialDefense": 95,
     "speed": 40,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -9982,6 +10605,7 @@
     "specialDefense": 55,
     "speed": 20,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "lampent"
     ]
@@ -9999,6 +10623,7 @@
     "specialDefense": 60,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "chandelure"
     ]
@@ -10016,6 +10641,7 @@
     "specialDefense": 90,
     "speed": 80,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10031,6 +10657,7 @@
     "specialDefense": 40,
     "speed": 57,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "fraxure"
     ]
@@ -10048,6 +10675,7 @@
     "specialDefense": 50,
     "speed": 67,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "haxorus"
     ]
@@ -10065,6 +10693,7 @@
     "specialDefense": 70,
     "speed": 97,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10080,6 +10709,7 @@
     "specialDefense": 40,
     "speed": 40,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "beartic"
     ]
@@ -10097,6 +10727,7 @@
     "specialDefense": 80,
     "speed": 50,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10112,6 +10743,7 @@
     "specialDefense": 135,
     "speed": 105,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10127,6 +10759,7 @@
     "specialDefense": 65,
     "speed": 25,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "accelgor"
     ]
@@ -10144,6 +10777,7 @@
     "specialDefense": 60,
     "speed": 145,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10159,6 +10793,7 @@
     "specialDefense": 99,
     "speed": 32,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10174,6 +10809,7 @@
     "specialDefense": 50,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "mienshao"
     ]
@@ -10191,6 +10827,7 @@
     "specialDefense": 60,
     "speed": 105,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10206,6 +10843,7 @@
     "specialDefense": 90,
     "speed": 48,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10221,6 +10859,7 @@
     "specialDefense": 50,
     "speed": 35,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "golurk"
     ]
@@ -10238,6 +10877,7 @@
     "specialDefense": 80,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10253,6 +10893,7 @@
     "specialDefense": 40,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "bisharp"
     ]
@@ -10270,6 +10911,7 @@
     "specialDefense": 70,
     "speed": 70,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "kingambit"
     ]
@@ -10287,6 +10929,7 @@
     "specialDefense": 85,
     "speed": 50,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -10302,6 +10945,7 @@
     "specialDefense": 95,
     "speed": 55,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10317,6 +10961,7 @@
     "specialDefense": 50,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "braviary"
     ]
@@ -10334,6 +10979,7 @@
     "specialDefense": 75,
     "speed": 80,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10349,6 +10995,7 @@
     "specialDefense": 65,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "mandibuzz"
     ]
@@ -10366,6 +11013,7 @@
     "specialDefense": 95,
     "speed": 80,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10381,6 +11029,7 @@
     "specialDefense": 66,
     "speed": 65,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10396,6 +11045,7 @@
     "specialDefense": 48,
     "speed": 109,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10411,6 +11061,7 @@
     "specialDefense": 50,
     "speed": 38,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "zweilous"
     ]
@@ -10428,6 +11079,7 @@
     "specialDefense": 70,
     "speed": 58,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "hydreigon"
     ]
@@ -10445,6 +11097,7 @@
     "specialDefense": 90,
     "speed": 98,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10460,6 +11113,7 @@
     "specialDefense": 55,
     "speed": 60,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": [
       "volcarona"
     ]
@@ -10477,6 +11131,7 @@
     "specialDefense": 105,
     "speed": 100,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10492,6 +11147,7 @@
     "specialDefense": 72,
     "speed": 108,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10507,6 +11163,7 @@
     "specialDefense": 90,
     "speed": 108,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10522,6 +11179,7 @@
     "specialDefense": 129,
     "speed": 108,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10537,6 +11195,7 @@
     "specialDefense": 80,
     "speed": 111,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10552,6 +11211,7 @@
     "specialDefense": 80,
     "speed": 111,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10567,6 +11227,7 @@
     "specialDefense": 120,
     "speed": 90,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10582,6 +11243,7 @@
     "specialDefense": 100,
     "speed": 90,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10597,6 +11259,7 @@
     "specialDefense": 80,
     "speed": 101,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10612,6 +11275,7 @@
     "specialDefense": 90,
     "speed": 95,
     "isLegendary": true,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10627,6 +11291,7 @@
     "specialDefense": 90,
     "speed": 108,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10642,6 +11307,7 @@
     "specialDefense": 128,
     "speed": 90,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10657,6 +11323,7 @@
     "specialDefense": 95,
     "speed": 99,
     "isLegendary": false,
+    "generation": 5,
     "evolvesInto": []
   },
   {
@@ -10672,6 +11339,7 @@
     "specialDefense": 45,
     "speed": 38,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "quilladin"
     ]
@@ -10689,6 +11357,7 @@
     "specialDefense": 58,
     "speed": 57,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "chesnaught"
     ]
@@ -10706,6 +11375,7 @@
     "specialDefense": 75,
     "speed": 64,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -10721,6 +11391,7 @@
     "specialDefense": 60,
     "speed": 60,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "braixen"
     ]
@@ -10738,6 +11409,7 @@
     "specialDefense": 70,
     "speed": 73,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "delphox"
     ]
@@ -10755,6 +11427,7 @@
     "specialDefense": 100,
     "speed": 104,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -10770,6 +11443,7 @@
     "specialDefense": 44,
     "speed": 71,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "frogadier"
     ]
@@ -10787,6 +11461,7 @@
     "specialDefense": 56,
     "speed": 97,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "greninja"
     ]
@@ -10804,6 +11479,7 @@
     "specialDefense": 71,
     "speed": 122,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -10819,6 +11495,7 @@
     "specialDefense": 36,
     "speed": 57,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "diggersby"
     ]
@@ -10836,6 +11513,7 @@
     "specialDefense": 77,
     "speed": 78,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -10851,6 +11529,7 @@
     "specialDefense": 38,
     "speed": 62,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "fletchinder"
     ]
@@ -10868,6 +11547,7 @@
     "specialDefense": 52,
     "speed": 84,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "talonflame"
     ]
@@ -10885,6 +11565,7 @@
     "specialDefense": 69,
     "speed": 126,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -10900,6 +11581,7 @@
     "specialDefense": 25,
     "speed": 35,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "spewpa"
     ]
@@ -10917,6 +11599,7 @@
     "specialDefense": 30,
     "speed": 29,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "vivillon"
     ]
@@ -10934,6 +11617,7 @@
     "specialDefense": 50,
     "speed": 89,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -10949,6 +11633,7 @@
     "specialDefense": 54,
     "speed": 72,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "pyroar"
     ]
@@ -10966,6 +11651,7 @@
     "specialDefense": 66,
     "speed": 106,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -10981,6 +11667,7 @@
     "specialDefense": 79,
     "speed": 42,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "floette"
     ]
@@ -10998,6 +11685,7 @@
     "specialDefense": 98,
     "speed": 52,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "florges"
     ]
@@ -11015,6 +11703,7 @@
     "specialDefense": 154,
     "speed": 75,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11030,6 +11719,7 @@
     "specialDefense": 57,
     "speed": 52,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "gogoat"
     ]
@@ -11047,6 +11737,7 @@
     "specialDefense": 81,
     "speed": 68,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11062,6 +11753,7 @@
     "specialDefense": 48,
     "speed": 43,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "pangoro"
     ]
@@ -11079,6 +11771,7 @@
     "specialDefense": 71,
     "speed": 58,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11094,6 +11787,7 @@
     "specialDefense": 90,
     "speed": 102,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11109,6 +11803,7 @@
     "specialDefense": 60,
     "speed": 68,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "meowstic"
     ]
@@ -11126,6 +11821,7 @@
     "specialDefense": 81,
     "speed": 104,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11141,6 +11837,7 @@
     "specialDefense": 37,
     "speed": 28,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "doublade"
     ]
@@ -11158,6 +11855,7 @@
     "specialDefense": 49,
     "speed": 35,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "aegislash"
     ]
@@ -11175,6 +11873,7 @@
     "specialDefense": 140,
     "speed": 60,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11190,6 +11889,7 @@
     "specialDefense": 65,
     "speed": 23,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "aromatisse"
     ]
@@ -11207,6 +11907,7 @@
     "specialDefense": 89,
     "speed": 29,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11222,6 +11923,7 @@
     "specialDefense": 57,
     "speed": 49,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "slurpuff"
     ]
@@ -11239,6 +11941,7 @@
     "specialDefense": 75,
     "speed": 72,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11254,6 +11957,7 @@
     "specialDefense": 46,
     "speed": 45,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "malamar"
     ]
@@ -11271,6 +11975,7 @@
     "specialDefense": 75,
     "speed": 73,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11286,6 +11991,7 @@
     "specialDefense": 56,
     "speed": 50,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "barbaracle"
     ]
@@ -11303,6 +12009,7 @@
     "specialDefense": 86,
     "speed": 68,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11318,6 +12025,7 @@
     "specialDefense": 60,
     "speed": 30,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "dragalge"
     ]
@@ -11335,6 +12043,7 @@
     "specialDefense": 123,
     "speed": 44,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11350,6 +12059,7 @@
     "specialDefense": 63,
     "speed": 44,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "clawitzer"
     ]
@@ -11367,6 +12077,7 @@
     "specialDefense": 89,
     "speed": 59,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11382,6 +12093,7 @@
     "specialDefense": 43,
     "speed": 70,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "heliolisk"
     ]
@@ -11399,6 +12111,7 @@
     "specialDefense": 94,
     "speed": 109,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11414,6 +12127,7 @@
     "specialDefense": 45,
     "speed": 48,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "tyrantrum"
     ]
@@ -11431,6 +12145,7 @@
     "specialDefense": 59,
     "speed": 71,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11446,6 +12161,7 @@
     "specialDefense": 63,
     "speed": 46,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "aurorus"
     ]
@@ -11463,6 +12179,7 @@
     "specialDefense": 92,
     "speed": 58,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11478,6 +12195,7 @@
     "specialDefense": 63,
     "speed": 118,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11493,6 +12211,7 @@
     "specialDefense": 67,
     "speed": 101,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11508,6 +12227,7 @@
     "specialDefense": 150,
     "speed": 50,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11523,6 +12243,7 @@
     "specialDefense": 75,
     "speed": 40,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "sliggoo"
     ]
@@ -11540,6 +12261,7 @@
     "specialDefense": 113,
     "speed": 60,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "goodra"
     ]
@@ -11557,6 +12279,7 @@
     "specialDefense": 150,
     "speed": 80,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11572,6 +12295,7 @@
     "specialDefense": 87,
     "speed": 75,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11587,6 +12311,7 @@
     "specialDefense": 60,
     "speed": 38,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "trevenant"
     ]
@@ -11604,6 +12329,7 @@
     "specialDefense": 82,
     "speed": 56,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11619,6 +12345,7 @@
     "specialDefense": 55,
     "speed": 51,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "gourgeist"
     ]
@@ -11636,6 +12363,7 @@
     "specialDefense": 75,
     "speed": 84,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11651,6 +12379,7 @@
     "specialDefense": 35,
     "speed": 28,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "avalugg"
     ]
@@ -11668,6 +12397,7 @@
     "specialDefense": 46,
     "speed": 28,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11683,6 +12413,7 @@
     "specialDefense": 40,
     "speed": 55,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": [
       "noivern"
     ]
@@ -11700,6 +12431,7 @@
     "specialDefense": 80,
     "speed": 123,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11715,6 +12447,7 @@
     "specialDefense": 98,
     "speed": 99,
     "isLegendary": true,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11730,6 +12463,7 @@
     "specialDefense": 98,
     "speed": 99,
     "isLegendary": true,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11745,6 +12479,7 @@
     "specialDefense": 95,
     "speed": 95,
     "isLegendary": true,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11760,6 +12495,7 @@
     "specialDefense": 150,
     "speed": 50,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11775,6 +12511,7 @@
     "specialDefense": 130,
     "speed": 70,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11790,6 +12527,7 @@
     "specialDefense": 90,
     "speed": 70,
     "isLegendary": false,
+    "generation": 6,
     "evolvesInto": []
   },
   {
@@ -11805,6 +12543,7 @@
     "specialDefense": 50,
     "speed": 42,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "dartrix"
     ]
@@ -11822,6 +12561,7 @@
     "specialDefense": 70,
     "speed": 52,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "decidueye"
     ]
@@ -11839,6 +12579,7 @@
     "specialDefense": 100,
     "speed": 70,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -11854,6 +12595,7 @@
     "specialDefense": 40,
     "speed": 70,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "torracat"
     ]
@@ -11871,6 +12613,7 @@
     "specialDefense": 50,
     "speed": 90,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "incineroar"
     ]
@@ -11888,6 +12631,7 @@
     "specialDefense": 90,
     "speed": 60,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -11903,6 +12647,7 @@
     "specialDefense": 56,
     "speed": 40,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "brionne"
     ]
@@ -11920,6 +12665,7 @@
     "specialDefense": 81,
     "speed": 50,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "primarina"
     ]
@@ -11937,6 +12683,7 @@
     "specialDefense": 116,
     "speed": 60,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -11952,6 +12699,7 @@
     "specialDefense": 30,
     "speed": 65,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "trumbeak"
     ]
@@ -11969,6 +12717,7 @@
     "specialDefense": 50,
     "speed": 75,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "toucannon"
     ]
@@ -11986,6 +12735,7 @@
     "specialDefense": 75,
     "speed": 60,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12001,6 +12751,7 @@
     "specialDefense": 30,
     "speed": 45,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "gumshoos"
     ]
@@ -12018,6 +12769,7 @@
     "specialDefense": 60,
     "speed": 45,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12033,6 +12785,7 @@
     "specialDefense": 45,
     "speed": 46,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "charjabug"
     ]
@@ -12050,6 +12803,7 @@
     "specialDefense": 75,
     "speed": 36,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "vikavolt"
     ]
@@ -12067,6 +12821,7 @@
     "specialDefense": 75,
     "speed": 43,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12082,6 +12837,7 @@
     "specialDefense": 47,
     "speed": 63,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "crabominable"
     ]
@@ -12099,6 +12855,7 @@
     "specialDefense": 67,
     "speed": 43,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12114,6 +12871,7 @@
     "specialDefense": 70,
     "speed": 93,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12129,6 +12887,7 @@
     "specialDefense": 40,
     "speed": 84,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "ribombee"
     ]
@@ -12146,6 +12905,7 @@
     "specialDefense": 70,
     "speed": 124,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12161,6 +12921,7 @@
     "specialDefense": 40,
     "speed": 60,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "lycanroc"
     ]
@@ -12178,6 +12939,7 @@
     "specialDefense": 65,
     "speed": 112,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12193,6 +12955,7 @@
     "specialDefense": 25,
     "speed": 40,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12208,6 +12971,7 @@
     "specialDefense": 52,
     "speed": 45,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "toxapex"
     ]
@@ -12225,6 +12989,7 @@
     "specialDefense": 142,
     "speed": 35,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12240,6 +13005,7 @@
     "specialDefense": 55,
     "speed": 45,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "mudsdale"
     ]
@@ -12257,6 +13023,7 @@
     "specialDefense": 85,
     "speed": 35,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12272,6 +13039,7 @@
     "specialDefense": 72,
     "speed": 27,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "araquanid"
     ]
@@ -12289,6 +13057,7 @@
     "specialDefense": 132,
     "speed": 42,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12304,6 +13073,7 @@
     "specialDefense": 35,
     "speed": 35,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "lurantis"
     ]
@@ -12321,6 +13091,7 @@
     "specialDefense": 90,
     "speed": 45,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12336,6 +13107,7 @@
     "specialDefense": 75,
     "speed": 15,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "shiinotic"
     ]
@@ -12353,6 +13125,7 @@
     "specialDefense": 100,
     "speed": 30,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12368,6 +13141,7 @@
     "specialDefense": 40,
     "speed": 77,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "salazzle"
     ]
@@ -12385,6 +13159,7 @@
     "specialDefense": 60,
     "speed": 117,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12400,6 +13175,7 @@
     "specialDefense": 50,
     "speed": 50,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "bewear"
     ]
@@ -12417,6 +13193,7 @@
     "specialDefense": 60,
     "speed": 60,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12432,6 +13209,7 @@
     "specialDefense": 38,
     "speed": 32,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "steenee"
     ]
@@ -12449,6 +13227,7 @@
     "specialDefense": 48,
     "speed": 62,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "tsareena"
     ]
@@ -12466,6 +13245,7 @@
     "specialDefense": 98,
     "speed": 72,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12481,6 +13261,7 @@
     "specialDefense": 110,
     "speed": 100,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12496,6 +13277,7 @@
     "specialDefense": 110,
     "speed": 60,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12511,6 +13293,7 @@
     "specialDefense": 60,
     "speed": 80,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12526,6 +13309,7 @@
     "specialDefense": 30,
     "speed": 80,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "golisopod"
     ]
@@ -12543,6 +13327,7 @@
     "specialDefense": 90,
     "speed": 40,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12558,6 +13343,7 @@
     "specialDefense": 45,
     "speed": 15,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "palossand"
     ]
@@ -12575,6 +13361,7 @@
     "specialDefense": 75,
     "speed": 35,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12590,6 +13377,7 @@
     "specialDefense": 130,
     "speed": 5,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12605,6 +13393,7 @@
     "specialDefense": 95,
     "speed": 59,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "silvally"
     ]
@@ -12622,6 +13411,7 @@
     "specialDefense": 95,
     "speed": 95,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12637,6 +13427,7 @@
     "specialDefense": 100,
     "speed": 60,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12652,6 +13443,7 @@
     "specialDefense": 95,
     "speed": 65,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12667,6 +13459,7 @@
     "specialDefense": 85,
     "speed": 36,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12682,6 +13475,7 @@
     "specialDefense": 73,
     "speed": 96,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12697,6 +13491,7 @@
     "specialDefense": 105,
     "speed": 96,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12712,6 +13507,7 @@
     "specialDefense": 70,
     "speed": 92,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12727,6 +13523,7 @@
     "specialDefense": 91,
     "speed": 36,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12742,6 +13539,7 @@
     "specialDefense": 90,
     "speed": 40,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12757,6 +13555,7 @@
     "specialDefense": 45,
     "speed": 45,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "hakamo-o"
     ]
@@ -12774,6 +13573,7 @@
     "specialDefense": 70,
     "speed": 65,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "kommo-o"
     ]
@@ -12791,6 +13591,7 @@
     "specialDefense": 105,
     "speed": 85,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12806,6 +13607,7 @@
     "specialDefense": 75,
     "speed": 130,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12821,6 +13623,7 @@
     "specialDefense": 115,
     "speed": 95,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12836,6 +13639,7 @@
     "specialDefense": 95,
     "speed": 75,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12851,6 +13655,7 @@
     "specialDefense": 130,
     "speed": 85,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12866,6 +13671,7 @@
     "specialDefense": 31,
     "speed": 37,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": [
       "cosmoem"
     ]
@@ -12883,6 +13689,7 @@
     "specialDefense": 131,
     "speed": 37,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": [
       "solgaleo",
       "lunala"
@@ -12901,6 +13708,7 @@
     "specialDefense": 89,
     "speed": 97,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12916,6 +13724,7 @@
     "specialDefense": 107,
     "speed": 97,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12931,6 +13740,7 @@
     "specialDefense": 131,
     "speed": 103,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12946,6 +13756,7 @@
     "specialDefense": 53,
     "speed": 79,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12961,6 +13772,7 @@
     "specialDefense": 37,
     "speed": 151,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12976,6 +13788,7 @@
     "specialDefense": 71,
     "speed": 83,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -12991,6 +13804,7 @@
     "specialDefense": 101,
     "speed": 61,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13006,6 +13820,7 @@
     "specialDefense": 31,
     "speed": 109,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13021,6 +13836,7 @@
     "specialDefense": 53,
     "speed": 43,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13036,6 +13852,7 @@
     "specialDefense": 89,
     "speed": 79,
     "isLegendary": true,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13051,6 +13868,7 @@
     "specialDefense": 115,
     "speed": 65,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13066,6 +13884,7 @@
     "specialDefense": 90,
     "speed": 125,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13081,6 +13900,7 @@
     "specialDefense": 67,
     "speed": 73,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": [
       "naganadel"
     ]
@@ -13098,6 +13918,7 @@
     "specialDefense": 73,
     "speed": 121,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13113,6 +13934,7 @@
     "specialDefense": 101,
     "speed": 13,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13128,6 +13950,7 @@
     "specialDefense": 79,
     "speed": 107,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13143,6 +13966,7 @@
     "specialDefense": 80,
     "speed": 143,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13158,6 +13982,7 @@
     "specialDefense": 35,
     "speed": 34,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13173,6 +13998,7 @@
     "specialDefense": 65,
     "speed": 34,
     "isLegendary": false,
+    "generation": 7,
     "evolvesInto": []
   },
   {
@@ -13188,6 +14014,7 @@
     "specialDefense": 40,
     "speed": 65,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "thwackey"
     ]
@@ -13205,6 +14032,7 @@
     "specialDefense": 60,
     "speed": 80,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "rillaboom"
     ]
@@ -13222,6 +14050,7 @@
     "specialDefense": 70,
     "speed": 85,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13237,6 +14066,7 @@
     "specialDefense": 40,
     "speed": 69,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "raboot"
     ]
@@ -13254,6 +14084,7 @@
     "specialDefense": 60,
     "speed": 94,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "cinderace"
     ]
@@ -13271,6 +14102,7 @@
     "specialDefense": 75,
     "speed": 119,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13286,6 +14118,7 @@
     "specialDefense": 40,
     "speed": 70,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "drizzile"
     ]
@@ -13303,6 +14136,7 @@
     "specialDefense": 55,
     "speed": 90,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "inteleon"
     ]
@@ -13320,6 +14154,7 @@
     "specialDefense": 65,
     "speed": 120,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13335,6 +14170,7 @@
     "specialDefense": 35,
     "speed": 25,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "greedent"
     ]
@@ -13352,6 +14188,7 @@
     "specialDefense": 75,
     "speed": 20,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13367,6 +14204,7 @@
     "specialDefense": 35,
     "speed": 57,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "corvisquire"
     ]
@@ -13384,6 +14222,7 @@
     "specialDefense": 55,
     "speed": 77,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "corviknight"
     ]
@@ -13401,6 +14240,7 @@
     "specialDefense": 85,
     "speed": 67,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13416,6 +14256,7 @@
     "specialDefense": 45,
     "speed": 45,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "dottler"
     ]
@@ -13433,6 +14274,7 @@
     "specialDefense": 90,
     "speed": 30,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "orbeetle"
     ]
@@ -13450,6 +14292,7 @@
     "specialDefense": 120,
     "speed": 90,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13465,6 +14308,7 @@
     "specialDefense": 52,
     "speed": 50,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "thievul"
     ]
@@ -13482,6 +14326,7 @@
     "specialDefense": 92,
     "speed": 90,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13497,6 +14342,7 @@
     "specialDefense": 60,
     "speed": 10,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "eldegoss"
     ]
@@ -13514,6 +14360,7 @@
     "specialDefense": 120,
     "speed": 60,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13529,6 +14376,7 @@
     "specialDefense": 45,
     "speed": 48,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "dubwool"
     ]
@@ -13546,6 +14394,7 @@
     "specialDefense": 90,
     "speed": 88,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13561,6 +14410,7 @@
     "specialDefense": 38,
     "speed": 44,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "drednaw"
     ]
@@ -13578,6 +14428,7 @@
     "specialDefense": 68,
     "speed": 74,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13593,6 +14444,7 @@
     "specialDefense": 50,
     "speed": 26,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "boltund"
     ]
@@ -13610,6 +14462,7 @@
     "specialDefense": 60,
     "speed": 121,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13625,6 +14478,7 @@
     "specialDefense": 50,
     "speed": 30,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "carkol"
     ]
@@ -13642,6 +14496,7 @@
     "specialDefense": 70,
     "speed": 50,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "coalossal"
     ]
@@ -13659,6 +14514,7 @@
     "specialDefense": 90,
     "speed": 30,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13674,6 +14530,7 @@
     "specialDefense": 40,
     "speed": 20,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "flapple",
       "appletun",
@@ -13693,6 +14550,7 @@
     "specialDefense": 60,
     "speed": 70,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13708,6 +14566,7 @@
     "specialDefense": 80,
     "speed": 30,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13723,6 +14582,7 @@
     "specialDefense": 80,
     "speed": 40,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "hydrapple"
     ]
@@ -13740,6 +14600,7 @@
     "specialDefense": 80,
     "speed": 44,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -13755,6 +14616,7 @@
     "specialDefense": 50,
     "speed": 46,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "sandaconda"
     ]
@@ -13772,6 +14634,7 @@
     "specialDefense": 70,
     "speed": 71,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13787,6 +14650,7 @@
     "specialDefense": 95,
     "speed": 85,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13802,6 +14666,7 @@
     "specialDefense": 30,
     "speed": 66,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "barraskewda"
     ]
@@ -13819,6 +14684,7 @@
     "specialDefense": 50,
     "speed": 136,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13834,6 +14700,7 @@
     "specialDefense": 35,
     "speed": 40,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "toxtricity"
     ]
@@ -13851,6 +14718,7 @@
     "specialDefense": 70,
     "speed": 75,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13866,6 +14734,7 @@
     "specialDefense": 50,
     "speed": 45,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "centiskorch"
     ]
@@ -13883,6 +14752,7 @@
     "specialDefense": 90,
     "speed": 65,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13898,6 +14768,7 @@
     "specialDefense": 50,
     "speed": 32,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "grapploct"
     ]
@@ -13915,6 +14786,7 @@
     "specialDefense": 80,
     "speed": 42,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13930,6 +14802,7 @@
     "specialDefense": 54,
     "speed": 50,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "polteageist"
     ]
@@ -13947,6 +14820,7 @@
     "specialDefense": 114,
     "speed": 70,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -13962,6 +14836,7 @@
     "specialDefense": 53,
     "speed": 39,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "hattrem"
     ]
@@ -13979,6 +14854,7 @@
     "specialDefense": 73,
     "speed": 49,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "hatterene"
     ]
@@ -13996,6 +14872,7 @@
     "specialDefense": 103,
     "speed": 29,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14011,6 +14888,7 @@
     "specialDefense": 40,
     "speed": 50,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "morgrem"
     ]
@@ -14028,6 +14906,7 @@
     "specialDefense": 55,
     "speed": 70,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "grimmsnarl"
     ]
@@ -14045,6 +14924,7 @@
     "specialDefense": 75,
     "speed": 60,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14060,6 +14940,7 @@
     "specialDefense": 61,
     "speed": 34,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "alcremie"
     ]
@@ -14077,6 +14958,7 @@
     "specialDefense": 121,
     "speed": 64,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14092,6 +14974,7 @@
     "specialDefense": 60,
     "speed": 75,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14107,6 +14990,7 @@
     "specialDefense": 85,
     "speed": 15,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14122,6 +15006,7 @@
     "specialDefense": 30,
     "speed": 20,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "frosmoth"
     ]
@@ -14139,6 +15024,7 @@
     "specialDefense": 90,
     "speed": 65,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14154,6 +15040,7 @@
     "specialDefense": 20,
     "speed": 70,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14169,6 +15056,7 @@
     "specialDefense": 90,
     "speed": 50,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14184,6 +15072,7 @@
     "specialDefense": 95,
     "speed": 95,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14199,6 +15088,7 @@
     "specialDefense": 58,
     "speed": 97,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14214,6 +15104,7 @@
     "specialDefense": 49,
     "speed": 40,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "copperajah"
     ]
@@ -14231,6 +15122,7 @@
     "specialDefense": 69,
     "speed": 30,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14246,6 +15138,7 @@
     "specialDefense": 70,
     "speed": 75,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14261,6 +15154,7 @@
     "specialDefense": 80,
     "speed": 55,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14276,6 +15170,7 @@
     "specialDefense": 80,
     "speed": 75,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14291,6 +15186,7 @@
     "specialDefense": 90,
     "speed": 55,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14306,6 +15202,7 @@
     "specialDefense": 50,
     "speed": 85,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "archaludon"
     ]
@@ -14323,6 +15220,7 @@
     "specialDefense": 65,
     "speed": 85,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14338,6 +15236,7 @@
     "specialDefense": 30,
     "speed": 82,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "drakloak"
     ]
@@ -14355,6 +15254,7 @@
     "specialDefense": 50,
     "speed": 102,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": [
       "dragapult"
     ]
@@ -14372,6 +15272,7 @@
     "specialDefense": 75,
     "speed": 142,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14387,6 +15288,7 @@
     "specialDefense": 115,
     "speed": 138,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14402,6 +15304,7 @@
     "specialDefense": 115,
     "speed": 138,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14417,6 +15320,7 @@
     "specialDefense": 95,
     "speed": 130,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14432,6 +15336,7 @@
     "specialDefense": 50,
     "speed": 72,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": [
       "urshifu"
     ]
@@ -14449,6 +15354,7 @@
     "specialDefense": 60,
     "speed": 97,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14464,6 +15370,7 @@
     "specialDefense": 95,
     "speed": 105,
     "isLegendary": false,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14479,6 +15386,7 @@
     "specialDefense": 50,
     "speed": 200,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14494,6 +15402,7 @@
     "specialDefense": 50,
     "speed": 80,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14509,6 +15418,7 @@
     "specialDefense": 110,
     "speed": 30,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14524,6 +15434,7 @@
     "specialDefense": 80,
     "speed": 130,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14539,6 +15450,7 @@
     "specialDefense": 80,
     "speed": 80,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14554,6 +15466,7 @@
     "specialDefense": 80,
     "speed": 106,
     "isLegendary": true,
+    "generation": 8,
     "evolvesInto": []
   },
   {
@@ -14569,6 +15482,7 @@
     "specialDefense": 45,
     "speed": 65,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "floragato"
     ]
@@ -14586,6 +15500,7 @@
     "specialDefense": 63,
     "speed": 83,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "meowscarada"
     ]
@@ -14603,6 +15518,7 @@
     "specialDefense": 70,
     "speed": 123,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14618,6 +15534,7 @@
     "specialDefense": 40,
     "speed": 36,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "crocalor"
     ]
@@ -14635,6 +15552,7 @@
     "specialDefense": 58,
     "speed": 49,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "skeledirge"
     ]
@@ -14652,6 +15570,7 @@
     "specialDefense": 75,
     "speed": 66,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14667,6 +15586,7 @@
     "specialDefense": 45,
     "speed": 50,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "quaxwell"
     ]
@@ -14684,6 +15604,7 @@
     "specialDefense": 60,
     "speed": 65,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "quaquaval"
     ]
@@ -14701,6 +15622,7 @@
     "specialDefense": 75,
     "speed": 85,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14716,6 +15638,7 @@
     "specialDefense": 45,
     "speed": 35,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "oinkologne"
     ]
@@ -14733,6 +15656,7 @@
     "specialDefense": 80,
     "speed": 65,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14748,6 +15672,7 @@
     "specialDefense": 40,
     "speed": 20,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "spidops"
     ]
@@ -14765,6 +15690,7 @@
     "specialDefense": 86,
     "speed": 35,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14780,6 +15706,7 @@
     "specialDefense": 25,
     "speed": 45,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "lokix"
     ]
@@ -14797,6 +15724,7 @@
     "specialDefense": 55,
     "speed": 92,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14812,6 +15740,7 @@
     "specialDefense": 25,
     "speed": 60,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "pawmo"
     ]
@@ -14829,6 +15758,7 @@
     "specialDefense": 40,
     "speed": 85,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "pawmot"
     ]
@@ -14846,6 +15776,7 @@
     "specialDefense": 60,
     "speed": 105,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14861,6 +15792,7 @@
     "specialDefense": 45,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "maushold"
     ]
@@ -14878,6 +15810,7 @@
     "specialDefense": 75,
     "speed": 111,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14893,6 +15826,7 @@
     "specialDefense": 55,
     "speed": 65,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "dachsbun"
     ]
@@ -14910,6 +15844,7 @@
     "specialDefense": 80,
     "speed": 95,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14925,6 +15860,7 @@
     "specialDefense": 51,
     "speed": 30,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "dolliv"
     ]
@@ -14942,6 +15878,7 @@
     "specialDefense": 78,
     "speed": 33,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "arboliva"
     ]
@@ -14959,6 +15896,7 @@
     "specialDefense": 109,
     "speed": 39,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14974,6 +15912,7 @@
     "specialDefense": 51,
     "speed": 92,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -14989,6 +15928,7 @@
     "specialDefense": 35,
     "speed": 25,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "naclstack"
     ]
@@ -15006,6 +15946,7 @@
     "specialDefense": 65,
     "speed": 35,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "garganacl"
     ]
@@ -15023,6 +15964,7 @@
     "specialDefense": 90,
     "speed": 35,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15038,6 +15980,7 @@
     "specialDefense": 40,
     "speed": 35,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "armarouge",
       "ceruledge"
@@ -15056,6 +15999,7 @@
     "specialDefense": 80,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15071,6 +16015,7 @@
     "specialDefense": 100,
     "speed": 85,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15086,6 +16031,7 @@
     "specialDefense": 35,
     "speed": 45,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "bellibolt"
     ]
@@ -15103,6 +16049,7 @@
     "specialDefense": 83,
     "speed": 45,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15118,6 +16065,7 @@
     "specialDefense": 40,
     "speed": 70,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "kilowattrel"
     ]
@@ -15135,6 +16083,7 @@
     "specialDefense": 60,
     "speed": 125,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15150,6 +16099,7 @@
     "specialDefense": 51,
     "speed": 51,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "mabosstiff"
     ]
@@ -15167,6 +16117,7 @@
     "specialDefense": 70,
     "speed": 85,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15182,6 +16133,7 @@
     "specialDefense": 35,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "grafaiai"
     ]
@@ -15199,6 +16151,7 @@
     "specialDefense": 72,
     "speed": 110,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15214,6 +16167,7 @@
     "specialDefense": 35,
     "speed": 60,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "brambleghast"
     ]
@@ -15231,6 +16185,7 @@
     "specialDefense": 70,
     "speed": 90,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15246,6 +16201,7 @@
     "specialDefense": 100,
     "speed": 70,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "toedscruel"
     ]
@@ -15263,6 +16219,7 @@
     "specialDefense": 120,
     "speed": 100,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15278,6 +16235,7 @@
     "specialDefense": 55,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15293,6 +16251,7 @@
     "specialDefense": 40,
     "speed": 50,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "scovillain"
     ]
@@ -15310,6 +16269,7 @@
     "specialDefense": 65,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15325,6 +16285,7 @@
     "specialDefense": 58,
     "speed": 30,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "rabsca"
     ]
@@ -15342,6 +16303,7 @@
     "specialDefense": 100,
     "speed": 45,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15357,6 +16319,7 @@
     "specialDefense": 30,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "espathra"
     ]
@@ -15374,6 +16337,7 @@
     "specialDefense": 60,
     "speed": 105,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15389,6 +16353,7 @@
     "specialDefense": 64,
     "speed": 58,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "tinkatuff"
     ]
@@ -15406,6 +16371,7 @@
     "specialDefense": 82,
     "speed": 78,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "tinkaton"
     ]
@@ -15423,6 +16389,7 @@
     "specialDefense": 105,
     "speed": 94,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15438,6 +16405,7 @@
     "specialDefense": 25,
     "speed": 95,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "wugtrio"
     ]
@@ -15455,6 +16423,7 @@
     "specialDefense": 70,
     "speed": 120,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15470,6 +16439,7 @@
     "specialDefense": 85,
     "speed": 82,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15485,6 +16455,7 @@
     "specialDefense": 40,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "palafin"
     ]
@@ -15502,6 +16473,7 @@
     "specialDefense": 62,
     "speed": 100,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15517,6 +16489,7 @@
     "specialDefense": 45,
     "speed": 47,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "revavroom"
     ]
@@ -15534,6 +16507,7 @@
     "specialDefense": 67,
     "speed": 90,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15549,6 +16523,7 @@
     "specialDefense": 65,
     "speed": 121,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15564,6 +16539,7 @@
     "specialDefense": 55,
     "speed": 65,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15579,6 +16555,7 @@
     "specialDefense": 60,
     "speed": 60,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "glimmora"
     ]
@@ -15596,6 +16573,7 @@
     "specialDefense": 81,
     "speed": 86,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15611,6 +16589,7 @@
     "specialDefense": 55,
     "speed": 34,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "houndstone"
     ]
@@ -15628,6 +16607,7 @@
     "specialDefense": 97,
     "speed": 68,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15643,6 +16623,7 @@
     "specialDefense": 64,
     "speed": 90,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15658,6 +16639,7 @@
     "specialDefense": 40,
     "speed": 43,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "cetitan"
     ]
@@ -15675,6 +16657,7 @@
     "specialDefense": 55,
     "speed": 73,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15690,6 +16673,7 @@
     "specialDefense": 65,
     "speed": 70,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15705,6 +16689,7 @@
     "specialDefense": 65,
     "speed": 35,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15720,6 +16705,7 @@
     "specialDefense": 95,
     "speed": 82,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15735,6 +16721,7 @@
     "specialDefense": 53,
     "speed": 87,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15750,6 +16737,7 @@
     "specialDefense": 115,
     "speed": 111,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15765,6 +16753,7 @@
     "specialDefense": 99,
     "speed": 55,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15780,6 +16769,7 @@
     "specialDefense": 135,
     "speed": 135,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15795,6 +16785,7 @@
     "specialDefense": 105,
     "speed": 81,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15810,6 +16801,7 @@
     "specialDefense": 85,
     "speed": 101,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15825,6 +16817,7 @@
     "specialDefense": 70,
     "speed": 106,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15840,6 +16833,7 @@
     "specialDefense": 60,
     "speed": 136,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15855,6 +16849,7 @@
     "specialDefense": 68,
     "speed": 50,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15870,6 +16865,7 @@
     "specialDefense": 80,
     "speed": 108,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15885,6 +16881,7 @@
     "specialDefense": 110,
     "speed": 110,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15900,6 +16897,7 @@
     "specialDefense": 84,
     "speed": 72,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15915,6 +16913,7 @@
     "specialDefense": 45,
     "speed": 55,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "arctibax"
     ]
@@ -15932,6 +16931,7 @@
     "specialDefense": 65,
     "speed": 62,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "baxcalibur"
     ]
@@ -15949,6 +16949,7 @@
     "specialDefense": 86,
     "speed": 87,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15964,6 +16965,7 @@
     "specialDefense": 70,
     "speed": 10,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "gholdengo"
     ]
@@ -15981,6 +16983,7 @@
     "specialDefense": 91,
     "speed": 84,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -15996,6 +16999,7 @@
     "specialDefense": 135,
     "speed": 70,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16011,6 +17015,7 @@
     "specialDefense": 65,
     "speed": 135,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16026,6 +17031,7 @@
     "specialDefense": 80,
     "speed": 45,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16041,6 +17047,7 @@
     "specialDefense": 120,
     "speed": 100,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16056,6 +17063,7 @@
     "specialDefense": 101,
     "speed": 119,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16071,6 +17079,7 @@
     "specialDefense": 60,
     "speed": 116,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16086,6 +17095,7 @@
     "specialDefense": 100,
     "speed": 135,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16101,6 +17111,7 @@
     "specialDefense": 115,
     "speed": 135,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16116,6 +17127,7 @@
     "specialDefense": 83,
     "speed": 109,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16131,6 +17143,7 @@
     "specialDefense": 108,
     "speed": 104,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16146,6 +17159,7 @@
     "specialDefense": 54,
     "speed": 50,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": [
       "sinistcha"
     ]
@@ -16163,6 +17177,7 @@
     "specialDefense": 80,
     "speed": 70,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16178,6 +17193,7 @@
     "specialDefense": 86,
     "speed": 80,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16193,6 +17209,7 @@
     "specialDefense": 90,
     "speed": 106,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16208,6 +17225,7 @@
     "specialDefense": 125,
     "speed": 99,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16223,6 +17241,7 @@
     "specialDefense": 96,
     "speed": 110,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16238,6 +17257,7 @@
     "specialDefense": 93,
     "speed": 91,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16253,6 +17273,7 @@
     "specialDefense": 89,
     "speed": 75,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16268,6 +17289,7 @@
     "specialDefense": 108,
     "speed": 98,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16283,6 +17305,7 @@
     "specialDefense": 108,
     "speed": 124,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16298,6 +17321,7 @@
     "specialDefense": 85,
     "speed": 60,
     "isLegendary": true,
+    "generation": 9,
     "evolvesInto": []
   },
   {
@@ -16313,6 +17337,7 @@
     "specialDefense": 88,
     "speed": 88,
     "isLegendary": false,
+    "generation": 9,
     "evolvesInto": []
   }
 ]
