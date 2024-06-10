@@ -9,10 +9,17 @@ async function checkIfLegendary(pokemon) {
   return json.is_legendary;
 }
 
+async function checkIfMythical(pokemon) {
+  // making the same request twice hurts lol. I would come back to clean up, but I know I probably won't.
+  const res = await fetch(`https://pokeapi.co/api/v2/pokemon-species/${pokemon}`);
+  const json = await res.json();
+  return json.is_mythical;
+}
+
 async function addPokemonData(chain) {
   console.log(chain.species.name);
-  // I really should've looked into the GraphQL API...
   let res;
+  // I really should've looked into the GraphQL API...
   switch (chain.species.name) {
     case 'deoxys':
       res = await fetch(`https://pokeapi.co/api/v2/pokemon/deoxys-normal`);
@@ -117,10 +124,11 @@ async function addPokemonData(chain) {
   const specialDefense = json.stats.find((x) => x.stat.name === 'special-defense').base_stat;
   const speed = json.stats.find((x) => x.stat.name === 'speed').base_stat;
   const isLegendary = await checkIfLegendary(pokemon);
+  const isMythical = await checkIfMythical(pokemon);
   const evolvesInto = chain.evolves_to.map((x) => x.species.name) || [];
   const generation = generations[pokemon];
 
-  data.push({ id, pokemon, type1, type2, total, hp, attack, defense, specialAttack, specialDefense, speed, isLegendary, generation, evolvesInto });
+  data.push({ id, pokemon, type1, type2, total, hp, attack, defense, specialAttack, specialDefense, speed, generation, isLegendary, isMythical, evolvesInto });
 
   if (id % 10 === 0) console.log(`${data.length}th pokemon added`);
   if (chain.evolves_to.length === 0) return;
