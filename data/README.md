@@ -1,7 +1,7 @@
 # Data from [Pokeapi](https://pokeapi.co/)
 
 Data based off this data set: https://github.com/nurfnick/Data_Sets_For_Stats/blob/master/CuratedDataSets/pokemon.csv
-but with a column for what each pokemon evolves into, if any. Side effect of having more cases and removed duplicate pokemon species.
+but with a column for mythicals and what each pokemon evolves into, if any. Side effect of having more cases and removed duplicate pokemon species.
 
 `generatePokemonJson.js` gets data from Pokeapi and saves a json to current directory as `pokemon.json`.
 
